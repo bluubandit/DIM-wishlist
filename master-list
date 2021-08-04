@@ -71,6 +71,12 @@ outrageous fortune - spikes/ALH/rampage
 dimwishlist:item=4146702548&perks=3301904089,3300816228,3425386926
 steel sybil - relentless/whirlwind
 dimwishlist:item=4230993599&perks=1749209109,3913600130
+quickfang - tireless/assassins
+dimwishlist:item=2782325300&perks=2590710093,354401740
+eternity's edge - thresh/surrounded
+dimwishlist:item=2782325301&perks=2726471870,3708227201
+crown splitter - thresh/vorpal
+dimwishlist:item=2782325302&perks=2726471870,1546637391
 
 ritual activities
 xenoclast - slideshot/KW - surplus/1-2P
@@ -389,3 +395,47 @@ dimwishlist:item=4050645223&perks=3643424744,1546637391
 (timelost) overflow(tracking)/vorpal
 dimwishlist:item=1921159786&perks=3643424744,1546637391
 dimwishlist:item=1921159786&perks=3977735242,1546637391
+
+trials
+exile's curse - slide/kickstart
+dimwishlist:item=679281855&perks=3161816588,1754714824
+adept
+dimwishlist:item=276080079&perks=3161816588,1754714824
+tomorrow's answer - imp amp/LI
+dimwishlist:item=958384347&perks=951095735,3927722942
+adept
+dimwishlist:item=1366917989&perks=951095735,3927722942
+sola's scar - tireless/CR
+dimwishlist:item=1313528549&perks=2590710093,2396489472
+adept
+dimwishlist:item=3847137620&perks=2590710093,2396489472
+astral horizon - surplus/OS
+dimwishlist:item=1697682876&perks=3436462433,47981717
+adept
+dimwishlist:item=532746994&perks=3436462433,47981717
+the summoner - DSR/rampage
+dimwishlist:item=1907698332&perks=1359896290,3425386926
+adept
+dimwishlist:item=3514144928&perks=1359896290,3425386926
+igneous hammer - RH/rampage
+dimwishlist:item=2351180975&perks=247725512,3425386926
+adept - QD/snap
+dimwishlist:item=2527666306&perks=706527188,957782887
+the scholar - slide/vorpal
+dimwishlist:item=2478792241&perks=2039302152,1546637391
+adept
+dimwishlist:item=2386979999&perks=2039302152,1546637391
+eye of sol - TV/snap
+dimwishlist:item=3164743584&perks=2946784966,957782887
+adept
+dimwishlist:item=3637570176&perks=2946784966,957782887
+the messenger - RH/KC
+dimwishlist:item=3658188704&perks=247725512,1015611457
+adept
+dimwishlist:item=1173780905&perks=247725512,1015611457
+shayura's wrath - HU/KC
+dimwishlist:item=3682803680&perks=1570042021,1015611457
+adept
+dimwishlist:item=4023807721&perks=1570042021,1015611457
+
+events
