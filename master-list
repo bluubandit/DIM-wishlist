@@ -142,8 +142,6 @@ servant leader - RH/KC
 dimwishlist:item=1107446438&perks=247725512,1015611457
 sorrow's verse - HU/rampage
 dimwishlist:item=2496875173&perks=1570042021,3425386926
-
-prophecy
 widow's bite - lead/DB
 dimwishlist:item=1271343896&perks=1556840489,1683379515
 death adder - subsist/DB
@@ -154,6 +152,8 @@ negative space - relentless/whirlwind
 dimwishlist:item=3629968765&perks=1749209109,3913600130
 hoosegow - tracking/RF
 dimwishlist:item=3669616453&perks=3977735242,2846385770
+
+prophecy
 the last breath - demo/frenzy
 dimwishlist:item=507038823&perks=3523296417,4104185692
 judgment - demo/TP
@@ -303,14 +303,14 @@ dimwishlist:item=334171687&perks=247725512,1015611457
 dimwishlist:item=334171687&perks=247725512,1683379515
 retold tale - slide/KW
 dimwishlist:item=346136302&perks=3161816588,2450788523
-tigerspite - subsist/demo
-dimwishlist:item=640114618&perks=1820235745,3523296417
-abide the return - tireless/thresh
-dimwishlist:item=1644160541&perks=2590710093,2726471870
+tigerspite - surplus/KC
+dimwishlist:item=640114618&perks=3436462433,1015611457
+abide the return - relentless/whirlwind
+dimwishlist:item=1644160541&perks=1749209109,3913600130
 vouchsafe - RH/EP
 dimwishlist:item=3242168339&perks=247725512,3038247973
-twilight oath - surplus/snap
-dimwishlist:item=3297863558&perks=3436462433,957782887
+twilight oath - opening shot/snap
+dimwishlist:item=3297863558&perks=47981717,957782887
 sleepless - tracking/vorpal
 dimwishlist:item=3740842661&perks=3977735242,1546637391
 
@@ -319,12 +319,13 @@ premonition - surplus/rampage
 dimwishlist:item=208088207&perks=3436462433,3425386926
 one small step - FF/1FA
 dimwishlist:item=1016668089&perks=2779035018,4049631843
-tranquility - surplus/frenzy
-dimwishlist:item=1645386487&perks=3436462433,4104185692
+tranquility - TV/snap - surplus/FL
+dimwishlist:item=1645386487&perks=2946784966,957782887
+dimwishlist:item=1645386487&perks=3436462433,1771339417
 apostate - surplus/EP
 dimwishlist:item=2164448701&perks=3436462433,3038247973
-arc logic - HU/frenzy
-dimwishlist:item=2723909519&perks=1570042021,4104185692
+arc logic - sub/rampage
+dimwishlist:item=2723909519&perks=1820235745,3425386926
 blasphemer - surplus/swash
 dimwishlist:item=2782847179&perks=3436462433,4082225868
 dream breaker - slide/kickstart
@@ -333,14 +334,15 @@ heretic - imp amp/LI
 dimwishlist:item=3067821200&perks=951095735,3927722942
 a fine memorial - subsist/1FA
 dimwishlist:item=3325778512&perks=1820235745,4049631843
-love and death - spikes/ALH/1FA
-dimwishlist:item=3690523502&perks=3301904089,3300816228,4049631843
-night terror - relentless/vorpal
-dimwishlist:item=3870811754&perks=1749209109,1546637391
-load lullaby - surplus/KC
-dimwishlist:item=3924212056&perks=3436462433,1015611457
-every waking moment - HU/MKC
-dimwishlist:item=4277547616&perks=1570042021,2458213969
+love and death - spikes/clown cart/full court
+dimwishlist:item=3690523502&perks=3301904089,2284787283,2888557110
+night terror - relentless/whirlwind
+dimwishlist:item=3870811754&perks=1749209109,3913600130
+load lullaby - TV/KC - subsist/EP
+dimwishlist:item=3924212056&perks=2946784966,1015611457
+dimwishlist:item=3924212056&perks=1820235745,3038247973
+every waking moment - HU/KC
+dimwishlist:item=4277547616&perks=1570042021,1015611457
 
 garden of salvation
 ancient gospel - RH/swash
