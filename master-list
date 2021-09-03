@@ -1,4 +1,4 @@
-world
+[WORLD]
 temptation's hook - tireless/vorpal
 dimwishlist:item=35794111&perks=2590710093,1546637391
 
@@ -169,7 +169,7 @@ dimwishlist:item=3629968765&perks=1749209109,3913600130
 hoosegow - tracking/RF
 dimwishlist:item=3669616453&perks=3977735242,2846385770
 
-ritual activities
+[RITUAL ACTIVITIES]
 xenoclast - slideshot/KW - surplus/1-2P
 dimwishlist:item=2891672170&perks=3161816588,2450788523
 dimwishlist:item=2891672170&perks=3436462433,2679249093
@@ -221,7 +221,7 @@ dimwishlist:item=1107446438&perks=247725512,1015611457
 sorrow's verse - HU/rampage
 dimwishlist:item=2496875173&perks=1570042021,3425386926
 
-prophecy
+[PROPHECY]
 the last breath - demo/frenzy
 dimwishlist:item=507038823&perks=3523296417,4104185692
 
@@ -241,7 +241,7 @@ the long walk - ensemble/FL - overflow/snap
 dimwishlist:item=3326850591&perks=2621346526,1771339417
 dimwishlist:item=3326850591&perks=3643424744,957782887
 
-ikelos/sereph
+[WARMIND]
 IKELOS_SG_V1.0.2 - FF/vorpal
 dimwishlist:item=1096206669&perks=2779035018,1546637391
 
@@ -270,7 +270,7 @@ dimwishlist:item=1821724780&perks=3161816588,1546637391
 SEVENTH SERAPH CARBINE - 4TTC/vorpal
 dimwishlist:item=1561006927&perks=1354429876,1546637391
 
-europa
+[EUROPA]
 arctic haze - subsist/thresh
 dimwishlist:item=20935540&perks=1820235745,2726471870
 
@@ -295,7 +295,7 @@ dimwishlist:item=3512349612&perks=2450788523,4049631843
 bonechiller - ALH/demo
 dimwishlist:item=4037745684&perks=3300816228,3523296417
 
-deep stone crypt
+[DEEP STONE CRYPT]
 succession - recon/vorpal
 dimwishlist:item=2990047042&perks=1523832109,1546637391
 
@@ -314,7 +314,7 @@ dimwishlist:item=4230965989&perks=1523832109,3425386926
 heritage - recon/recombination
 dimwishlist:item=4248569242&perks=1523832109,469285294
 
-wrathborn
+[HUNT]
 deafening whisper AA/rampage
 dimwishlist:item=981718087&perks=2010801679,3425386926
 
@@ -330,7 +330,7 @@ dimwishlist:item=2714022207&perks=1168162263,2213355989
 royal chase - auto/DF
 dimwishlist:item=2776503072&perks=4267945040,2848615171
 
-battlegrounds
+[CHOSEN]
 extraordinary rendition - surplus rampage
 dimwishlist:item=1097616550&perks=3436462433,3425386926
 
@@ -349,7 +349,7 @@ dimwishlist:item=3075224551&perks=247725512,1546637391
 imperial needle - tempo/frenzy
 dimwishlist:item=3460122497&perks=201365942,4104185692
 
-override
+[SPLICER]
 ignition code - blinding(spikes)/slide/vorpal
 dimwishlist:item=304659313&perks=3301904089,3161816588,1546637391
 dimwishlist:item=304659313&perks=3032599245,3161816588,1546637391
@@ -370,7 +370,7 @@ dimwishlist:item=2434225986&perks=3300816228,3425386926
 sojourner's tale - TV/opening shot
 dimwishlist:item=599895591&perks=2946784966,47981717
 
-lost
+[LOST]
 chrysura melo - HU/frenzy
 dimwishlist:item=1337707096&perks=1570042021,4104185692
 
@@ -389,7 +389,7 @@ dimwishlist:item=3184681056&perks=706527188,47981717
 wolftone draw - S2L/demo
 dimwishlist:item=3472875143&perks=3700496672,3523296417
 
-last wish
+[LAST WISH]
 chattering bone - outlaw/rampage
 dimwishlist:item=568515759&perks=1168162263,3425386926
 
@@ -416,7 +416,7 @@ techeun force - KC/rampage - under pressure
 dimwishlist:item=4094657108&perks=1015611457,3425386926
 dimwishlist:item=4094657108&perks=1645158859,2213355989
 
-dreaming city
+[DREAMING CITY]
 waking vigil - RH/KC(DB)
 dimwishlist:item=334171687&perks=247725512,1015611457
 dimwishlist:item=334171687&perks=247725512,1683379515
@@ -439,7 +439,7 @@ dimwishlist:item=3297863558&perks=47981717,957782887
 sleepless - tracking/vorpal
 dimwishlist:item=3740842661&perks=3977735242,1546637391
 
-moon
+[MOON]
 premonition - surplus/rampage
 dimwishlist:item=208088207&perks=3436462433,3425386926
 
@@ -481,7 +481,7 @@ dimwishlist:item=3924212056&perks=1820235745,3038247973
 every waking moment - HU/KC
 dimwishlist:item=4277547616&perks=1570042021,1015611457
 
-garden of salvation
+[GARDEN OF SALVATION]
 ancient gospel - RH/swash
 dimwishlist:item=48643186&perks=247725512,4082225868
 
@@ -503,7 +503,7 @@ dimwishlist:item=4020742303&perks=3096702027,3275789089
 accrued redemption - tempo/rampage
 dimwishlist:item=4095896073&perks=201365942,3425386926
 
-iron banner
+[IRON BANNER]
 fool's remady - subsist/KC
 dimwishlist:item=65611680&perks=1820235745,1015611457
 
@@ -544,7 +544,7 @@ dimwishlist:item=829330711&perks=1820235745,4082225868
 forge's pledge - HU/rampage
 dimwishlist:item=1076810832&perks=1570042021,3425386926
 
-nightfall
+[ORDEALS]
 the swarm - surplus/1FA
 dimwishlist:item=47772649&perks=3436462433,4049631843
 (adept)
@@ -588,7 +588,7 @@ dimwishlist:item=1028582252&perks=1820235745,1546637391
 (adept) 
 dimwishlist:item=2443900757&perks=1820235745,1546637391
 
-vault of glass
+[VAULT OF GLASS]
 fatebringer - EP/firefly - TV/KC
 dimwishlist:item=2171478765&perks=3038247973,3824105627
 dimwishlist:item=2171478765&perks=2946784966,1015611457
@@ -626,7 +626,7 @@ dimwishlist:item=4050645223&perks=3643424744,1546637391
 dimwishlist:item=1921159786&perks=3643424744,1546637391
 dimwishlist:item=1921159786&perks=3977735242,1546637391
 
-trials
+[TRIALS]
 exile's curse - slide/kickstart
 dimwishlist:item=679281855&perks=3161816588,1754714824
 adept
@@ -682,4 +682,4 @@ dimwishlist:item=1399243961&perks=3400784728,1771339417
 adept
 dimwishlist:item=2475355656&perks=3400784728,1771339417
 
-events
+[EVENTS]
