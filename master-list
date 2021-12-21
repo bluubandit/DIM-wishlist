@@ -46,8 +46,9 @@ dimwishlist:item=1162247618&perks=1683379515,3425386926
 retrofuturist - QD/swash
 dimwishlist:item=1402766122&perks=706527188,4082225868
 
-enigma's draw - full auto/demo
-dimwishlist:item=1723380073&perks=4267945040,3523296417
+enigma's draw - graverobber/swash - OS/RH
+dimwishlist:item=1723380073&perks=1631667848,4082225868
+dimwishlist:item=1723380073&perks=47981717,247725512
 
 escape velocity - threat detect/surrounded 
 dimwishlist:item=1786797708&perks=4071163871,3708227201
@@ -59,17 +60,20 @@ truthteller - blinding/ALH/demo(DB)
 dimwishlist:item=1946491241&perks=3032599245,3300816228,3523296417
 dimwishlist:item=1946491241&perks=3032599245,3300816228,1683379515
 
-last dance - QD/TTT
+last dance - QD/TTT - OL/KC
 dimwishlist:item=2009277538&perks=706527188,1890422124
+dimwishlist:item=2009277538&perks=1168162263,1015611457
 
-lonesome - full auto/KC
-dimwishlist:item=2199171672&perks=4267945040,1015611457
+lonesome - RH/KC - graverobber/swash
+dimwishlist:item=2199171672&perks=247725512,1015611457
+dimwishlist:item=2199171672&perks=1631667848,4082225868
 
 interference VI - spikes/ALH/full court
 dimwishlist:item=2257180473&perks=3301904089,3300816228,2888557110
 
-the vision - surplus/KC
+the vision - surplus/KC - graverobber/swash
 dimwishlist:item=2414141462&perks=3436462433,1015611457
+dimwishlist:item=2414141462&perks=1631667848,4082225868
 
 stochastic variable - FF/MKC
 dimwishlist:item=2272470786&perks=2779035018,2458213969
@@ -259,8 +263,8 @@ IKELOS_HC_V1.0.2 - 3tap/vorpal(DB)
 dimwishlist:item=1200824700&perks=3400784728,1546637391
 dimwishlist:item=1200824700&perks=3400784728,1683379515
 
-SEVENTH SERAPH SI-2 - auto/vorpal
-dimwishlist:item=3937866388&perks=4267945040,1546637391
+SEVENTH SERAPH SI-2 - demo/vorpal
+dimwishlist:item=3937866388&perks=3523296417,1546637391
 
 SEVENTH SERAPH OFFICER REVOLVER - 4TTC/timed payload
 dimwishlist:item=3037520408&perks=1354429876,1954620775
@@ -362,8 +366,9 @@ ignition code - blinding(spikes)/slide/vorpal
 dimwishlist:item=304659313&perks=3301904089,3161816588,1546637391
 dimwishlist:item=304659313&perks=3032599245,3161816588,1546637391
 
-farewell - auto/frenzy
-dimwishlist:item=541188001&perks=4267945040,4104185692
+farewell - HU/MKC - subsist/frenzy
+dimwishlist:item=541188001&perks=1570042021,2458213969
+dimwishlist:item=541188001&perks=1820235745,4104185692
 
 chroma rush - HU/KC - subsist/rampage
 dimwishlist:item=1119734784&perks=1570042021,1015611457
