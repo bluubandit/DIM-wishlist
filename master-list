@@ -181,6 +181,55 @@ dimwishlist:item=3629968765&perks=1749209109,3913600130
 hoosegow - tracking/RF
 dimwishlist:item=3669616453&perks=3977735242,2846385770
 
+// Cantata-57
+//notes:PvE-
+dimwishlist:item=372697604&perks=247725512,2896038713
+//notes:PvP-
+dimwishlist:item=372697604&perks=1570042021,47981717
+
+// Perses-D 
+//notes:PvE-
+dimwishlist:item=1019000888&perks=247725512,124408337
+
+// Redback-5si 
+//notes:PvE-
+dimwishlist:item=1687353095&perks=1820235745,3551326236
+//notes:PvP-
+dimwishlist:item=1687353095&perks=1428297954,1546637391
+
+// Fugue-55
+//notes:PvE-
+dimwishlist:item=2233545123&perks=1354429876,1771339417
+//notes:PvP-
+dimwishlist:item=2233545123&perks=509074078,957782887
+
+// Ogma PR6 
+//notes:GM-
+dimwishlist:item=2342054803&perks=1048183818,3871884143
+//notes:PvE-
+dimwishlist:item=2342054803&perks=3523296417,11612903
+
+// Krait 
+//notes:PvE-
+dimwishlist:item=2852052802&perks=1820235745,124408337
+
+// Funnelweb 
+//notes:PvE-
+dimwishlist:item=3341893443&perks=1820235745,11612903
+dimwishlist:item=3341893443&perks=1428297954,4104185692
+
+// Typhon GL5 
+//notes:PvE-
+dimwishlist:item=3568377122&perks=3523296417,2978966579
+dimwishlist:item=3568377122&perks=3523296417,3194351027
+
+// Snorri FR5
+//notes:PvE-
+dimwishlist:item=4114929480&perks=671806388,1427256713
+//notes:PvP-
+dimwishlist:item=4114929480&perks=1570042021,2652708987
+
+
 [RITUAL ACTIVITIES]
 
 xenoclast - slideshot/KW - surplus/1-2P
