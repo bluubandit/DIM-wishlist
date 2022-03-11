@@ -754,10 +754,55 @@ dimwishlist:item=1921159786&perks=3977735242,1546637391
 
 VOTD
 
-Lubrae's Ruin 
-dimwishlist:item=4139166068&perks=3526486541,4082225868
+// Forbearance AA/CR
+//notes:PvE-
+dimwishlist:item=4199933901&perks=2010801679,2396489472
 
+// Forbearance (Adept) AA/CR
+//notes:PvE-
+dimwishlist:item=4038592169&perks=2010801679,2396489472
 
+// Deliverance compulsive/chill - HU/TTT
+//notes:PvE-
+dimwishlist:item=2139190869&perks=671806388,2978966579
+dimwishlist:item=2139190869&perks=1570042021,1890422124
+
+// Deliverance (Adept) compulsive/chill - HU/TTT
+//notes:PvE-
+dimwishlist:item=2943293195&perks=671806388,2978966579
+dimwishlist:item=2943293195&perks=1570042021,1890422124
+
+// Cataclysmic 4TTC/FF
+//notes:PvE-
+dimwishlist:item=2933132219&perks=1354429876,2896038713
+
+// Cataclysmic (Adept) 4TTC/FF
+//notes:PvE-
+dimwishlist:item=2886339027&perks=1354429876,2896038713
+
+// Lubrae's Ruin GR/swash
+//notes:PvE-
+dimwishlist:item=4139166068&perks=1631667848,4082225868
+
+// Lubrae's Ruin (Adept) GR/swash
+//notes:PvE-
+dimwishlist:item=1466006054&perks=1631667848,4082225868
+
+// Insidious RH/rampage
+//notes:PvE-
+dimwishlist:item=3792798197&perks=247725512,3551326236
+
+// Insidious (Adept) RH/rampage
+//notes:PvE-
+dimwishlist:item=2890628955&perks=247725512,3551326236
+
+// Submission subsist/frenzy
+//notes:PvE-
+dimwishlist:item=3886416794&perks=1820235745,4104185692
+
+// Submission (Adept) subsist/frenzy
+//notes:PvE-
+dimwishlist:item=2031579744&perks=1820235745,4104185692
 
 [TRIALS]
 
