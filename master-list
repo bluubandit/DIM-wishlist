@@ -461,31 +461,24 @@ dimwishlist:item=3472875143&perks=3700496672,2848615171
 
 [RISEN]
 
-// Under Your Skin tempo/warm up
-//notes:PvE-
-dimwishlist:item=3517716296&perks=201365942,2652708987
+under your skin - tempo/DF
+dimwishlist:item=232928045,201365942,2848615171
 
-// Sweet Sorrow SFA/OFA
-//notes:PvE-
-dimwishlist:item=2587734818&perks=1583705720,4049631843
+sweet sorrow - SFA/OFA
+dimwishlist:item=1248372789,1583705720,4049631843
 
-// Recurrent Impact FP/FL
-//notes:PvE-
-dimwishlist:item=3637823400&perks=2869569095,1771339417
+recurrent impact - sub/OFA
+dimwishlist:item=1572896086,1820235745,4049631843
 
-// Piece of Mind OF/FF
-//notes:PvE-
-dimwishlist:item=4195995171&perks=3643424744,2896038713
+piece of mind - OF/FF
+dimwishlist:item=2097055732,3643424744,2896038713
 
-// Thoughtless OF/FL OF/headstone
-//notes:PvE-
-dimwishlist:item=4067556514&perks=3643424744,1771339417
-//notes:PvP-
-dimwishlist:item=4067556514&perks=3643424744,124408337
+thoughtless - OF/FL - FP/snap
+dimwishlist:item=4067556514,3643424744,1771339417
+dimwishlist:item=4067556514,280464955,957782887
 
-// Explosive Personality SFA/OFA
-//notes:PvE-
-dimwishlist:item=4096943616&perks=1583705720,4049631843
+explosive personality - SFA/OFA
+dimwishlist:item=4096943616,1583705720,4049631843
 
 [LAST WISH]
 
@@ -605,6 +598,39 @@ dimwishlist:item=4020742303&perks=3096702027,3275789089
 accrued redemption - tempo/rampage
 dimwishlist:item=4095896073&perks=201365942,3425386926
 
+[THRONE WORLD]
+
+pointed inquiry - gen/AM
+dimwishlist:item=297296830,3096702027,1048183818
+
+come to pass - gen/AM
+dimwishlist:item=927567426,3096702027,1048183818
+
+fel taradiddle - tempo/warmup
+dimwishlist:item=1399109800,201365942,2652708987
+
+forensic nightmare - PM/swash
+dimwishlist:item=1526296434,1428297954,4082225868
+
+likely suspect - FP/warmup
+dimwishlist:item=1994645182,280464955,2652708987
+
+the enigma - IA/unstoppable
+dimwishlist:item=2595497736,951095735,2224838837
+
+empirical evidence - PM/swash
+dimwishlist:item=2607304614,1428297954,4082225868
+
+tarnation - spike/clown/CR
+dimwishlist:item=2721157927,3301904089,2284787283,2396489472
+
+red herring - tracking/LI
+dimwishlist:item=3175851496,3977735242,3927722942
+
+father's sin - 3tap/FF - UP/snap
+dimwishlist:item=3865728990,3400784728,2896038713
+dimwishlist:item=3865728990,1645158859,957782887
+
 [IRON BANNER]
 
 fool's remady - subsist/KC
@@ -646,6 +672,12 @@ dimwishlist:item=829330711&perks=1820235745,4082225868
 
 forge's pledge - HU/rampage
 dimwishlist:item=1076810832&perks=1570042021,3425386926
+
+razors edge - tireless/CR
+dimwishlist:item=1796949035,2590710093,2396489472
+
+frontiers cry - RH/KC
+dimwishlist:item=1141547457,247725512,1015611457
 
 [ORDEALS]
 
@@ -692,6 +724,17 @@ dimwishlist:item=1028582252&perks=1820235745,1546637391
 (adept) 
 dimwishlist:item=2443900757&perks=1820235745,1546637391
 
+duty bound - 3tap/4ttc
+dimwishlist:item=435216110,3400784728,1354429876
+(adept)
+dimwishlist:item=1135050595,3400784728,1354429876
+
+silicon neuroma - snap/OS
+dimwishlist:item=3355385170,957782887,47981717
+(adept) - mag/3tap/FL
+dimwishlist:item=1387987271,957782887,47981717
+dimwishlist:item=1387987271,1087426260,3400784728,1771339417
+
 [VAULT OF GLASS]
 
 fatebringer - EP/firefly - TV/KC
@@ -731,58 +774,40 @@ dimwishlist:item=4050645223&perks=3643424744,1546637391
 dimwishlist:item=1921159786&perks=3643424744,1546637391
 dimwishlist:item=1921159786&perks=3977735242,1546637391
 
-VOTD
+[VOTD]
 
-// Forbearance AA/CR
-//notes:PvE-
-dimwishlist:item=4199933901&perks=2010801679,2396489472
+forbearence - AA/CR
+dimwishlist:item=613334176,2010801679,2396489472
+adept
+dimwishlist:item=4038592169,2010801679,2396489472
 
-// Forbearance (Adept) AA/CR
-//notes:PvE-
-dimwishlist:item=4038592169&perks=2010801679,2396489472
+deliverance - CR/CC - HU/TTT
+dimwishlist:item=768621510,671806388,2978966579
+dimwishlist:item=768621510,1570042021,1890422124
+adept
+dimwishlist:item=2943293195,671806388,2978966579
+dimwishlist:item=2943293195,1570042021,1890422124
 
-// Deliverance compulsive/chill - HU/TTT
-//notes:PvE-
-dimwishlist:item=2139190869&perks=671806388,2978966579
-dimwishlist:item=2139190869&perks=1570042021,1890422124
+cataclysmic - 4ttc/HIR
+dimwishlist:item=999767358,1354429876,2213355989
+adept
+dimwishlist:item=2886339027,1354429876,2213355989
 
-// Deliverance (Adept) compulsive/chill - HU/TTT
-//notes:PvE-
-dimwishlist:item=2943293195&perks=671806388,2978966579
-dimwishlist:item=2943293195&perks=1570042021,1890422124
+lubraes ruin - GR/swash
+dimwishlist:item=2534546147,1631667848,4082225868
+adept
+dimwishlist:item=2534546147,1631667848,4082225868
 
-// Cataclysmic 4TTC/FF
-//notes:PvE-
-dimwishlist:item=2933132219&perks=1354429876,2896038713
-
-// Cataclysmic (Adept) 4TTC/FF
-//notes:PvE-
-dimwishlist:item=2886339027&perks=1354429876,2896038713
-
-// Lubrae's Ruin GR/swash
-//notes:PvE-
-dimwishlist:item=4139166068&perks=1631667848,4082225868
-
-// Lubrae's Ruin (Adept) GR/swash
-//notes:PvE-
-dimwishlist:item=1466006054&perks=1631667848,4082225868
-
-// Insidious RH/rampage
-//notes:PvE-
-dimwishlist:item=3792798197&perks=247725512,3551326236
+insidious - DF/OFA - RH/rampage
 dimwishlist:item=3428521585,2848615171,4049631843
+dimwishlist:item=3428521585,247725512,3425386926
+adept
+dimwishlist:item=786352912,2848615171,4049631843
 
-// Insidious (Adept) RH/rampage
-//notes:PvE-
-dimwishlist:item=2890628955&perks=247725512,3551326236
-
-// Submission subsist/frenzy
-//notes:PvE-
-dimwishlist:item=3886416794&perks=1820235745,4104185692
-
-// Submission (Adept) subsist/frenzy
-//notes:PvE-
-dimwishlist:item=2031579744&perks=1820235745,4104185692
+submission - sub/frenzy
+dimwishlist:item=3886416794,1820235745,4104185692
+adept
+dimwishlist:item=1941816543,1820235745,4104185692
 
 [TRIALS]
 
@@ -841,21 +866,10 @@ dimwishlist:item=1399243961&perks=3400784728,1771339417
 adept
 dimwishlist:item=2475355656&perks=3400784728,1771339417
 
-// The Summoner HU/rampage
-//notes:PvE-
-dimwishlist:item=1907698332&perks=1570042021,3551326236
-
-// The Summoner (Adept) HU/rampage
-//notes:PvE-
-dimwishlist:item=3927598940&perks=1570042021,3551326236
-
-// Aisha's Embrace 3tap/FF
-//notes:PvE-
-dimwishlist:item=2638190703&perks=3400784728,2896038713
-
-// Aisha's Embrace (Adept) 3tap/FF
-//notes:PvE-
-dimwishlist:item=3245493570&perks=3400784728,2896038713
+summoner - PM/rampage
+dimwishlist:item=1907698332,1428297954,3425386926
+(adept) - HU/MKC
+dimwishlist:item=3514144928,1570042021,2458213969
 
 [30th ANNIVERSARY]
 
