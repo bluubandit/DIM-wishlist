@@ -181,62 +181,44 @@ dimwishlist:item=3629968765&perks=1749209109,3913600130
 hoosegow - tracking/RF
 dimwishlist:item=3669616453&perks=3977735242,2846385770
 
-// Cantata-57
-//notes:PvE-
-dimwishlist:item=372697604&perks=247725512,2896038713
-//notes:PvP-
-dimwishlist:item=372697604&perks=1570042021,47981717
+cantata - RH/FF - HU/RF
+dimwishlist:item=372697604,247725512,2896038713
+dimwishlist:item=372697604,1570042021,2846385770
 
-// Perses-D 
-//notes:PvE-
-dimwishlist:item=1019000888&perks=247725512,124408337
+perses - RH/HS
+dimwishlist:item=1019000888,247725512,124408337
 
-// Redback-5si 
-//notes:PvE-
-dimwishlist:item=1687353095&perks=1820235745,3551326236
-//notes:PvP-
-dimwishlist:item=1687353095&perks=1428297954,1546637391
+redback - PM/ramp
+dimwishlist:item=1687353095,1428297954,3425386926
 
-// Fugue-55
-//notes:PvE-
-dimwishlist:item=2233545123&perks=1354429876,1771339417
-//notes:PvP-
-dimwishlist:item=2233545123&perks=509074078,957782887
+fugue - SH/snap
+dimwishlist:item=2233545123,509074078,957782887
 
-// Ogma PR6 
-//notes:GM-
-dimwishlist:item=2342054803&perks=1048183818,3871884143
-//notes:PvE-
-dimwishlist:item=2342054803&perks=3523296417,11612903
+ogma - AM/DB - demo/AJ
+dimwishlist:item=2342054803,1048183818,1683379515
+dimwishlist:item=2342054803,3523296417,11612903
 
-// Krait 
-//notes:PvE-
-dimwishlist:item=2852052802&perks=1820235745,124408337
+krait - subsist/HS - OF/FF
+dimwishlist:item=2852052802,1820235745,124408337
+dimwishlist:item=2852052802,3643424744,2896038713
 
-// Funnelweb 
-//notes:PvE-
-dimwishlist:item=3341893443&perks=1820235745,11612903
-dimwishlist:item=3341893443&perks=1428297954,4104185692
+syncopation - outlaw/HS
+dimwishlist:item=2856514843,1168162263,124408337
 
-// Typhon GL5 
-//notes:PvE-
-dimwishlist:item=3568377122&perks=3523296417,2978966579
-dimwishlist:item=3568377122&perks=3523296417,3194351027
+funnelweb - sibsist/AJ
+dimwishlist:item=3341893443,1820235745,11612903
 
-// Snorri FR5
-//notes:PvE-
-dimwishlist:item=4114929480&perks=671806388,1427256713
-//notes:PvP-
-dimwishlist:item=4114929480&perks=1570042021,2652708987
+palmyra - ALH/EL
+dimwishlist:item=3489657138,3300816228,3194351027
 
-// Syncopation-53 (PvE)
-//notes:PvE-
-dimwishlist:item=2856514843&perks=3124871000,124408337
+typhon - spike/IA/EL
+dimwishlist:item=3568377122,3301904089,951095735,3194351027
 
-// Ragnhild-D (PvE)
-//notes:PvE-
-dimwishlist:item=4225322581&perks=1820235745,2679249093
+snorri - CR/RB
+dimwishlist:item=4114929480,671806388,1427256713
 
+ragnhild - subsist/1-2P
+dimwishlist:item=4225322581,1820235745,2679249093
 
 [RITUAL ACTIVITIES]
 
@@ -291,17 +273,14 @@ dimwishlist:item=1107446438&perks=247725512,1015611457
 sorrow's verse - HU/rampage
 dimwishlist:item=2496875173&perks=1570042021,3425386926
 
-// Fortissimo-11 4TTC/vorpal
-//notes:PvE-
-dimwishlist:item=2821430069&perks=1354429876,1546637391
+fortissimo-11 4TTC/vorpal
+dimwishlist:item=2821430069,1354429876,1546637391
 
-// Crisis Inverted RH/KC
-//notes:PvE-
-dimwishlist:item=2888266564&perks=247725512,1015611457
+Crisis Invertedn - RH/KC
+dimwishlist:item=2888266564,247725512,1015611457
 
-// Herod-C subsist/headstone
-//notes:PvE-
-dimwishlist:item=1788603939&perks=1820235745,124408337
+Herod-C subsist/headstone
+dimwishlist:item=1788603939,1820235745,124408337
 
 [PROPHECY]
 
