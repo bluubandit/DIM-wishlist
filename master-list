@@ -232,6 +232,18 @@ dimwishlist:item=2513965917&perks=,2846385770,124408337
 STACCATO-46 - 3tap/incan
 dimwishlist:item=4019668921&perks=,3400784728,4293542123
 
+lodbrok-c - demo/AJ - DSR/TTT
+dimwishlist:item=2328531378&perks=3523296417,11612903
+dimwishlist:item=2328531378&perks=1359896290,1890422124
+
+jararaca-3sr - RH/KC
+dimwishlist:item=1851521408&perks=247725512,1015611457
+
+fioritura-59 - pug/RB
+dimwishlist:item=2566006935&perks=691659142,776531651
+
+aurvvandil fr6 - recon/CC
+dimwishlist:item=963710795&perks=1523832109,2978966579
 
 
 [RITUAL ACTIVITIES]
@@ -316,6 +328,15 @@ dimwishlist:item=2988121501&perks=,1820235745,2610012052
 
 YESTERYEAR - OUTLAW/DESP
 dimwishlist:item=1141927949&perks=,1168162263,3047969693
+
+prolonged engagement - subsist/HS
+dimwishlist:item=2349907931&perks=1820235745,124408337
+
+blowout - tracking/LI
+dimwishlist:item=1903182562&perks=3977735242,3927722942
+
+albruna-d - CC/FL
+dimwishlist:item=676270382&perks=2284787283,1771339417
 
 
 [PROPHECY]
@@ -591,6 +612,39 @@ dimwishlist:item=1298815317&perks=,691659142,4082225868
 
 PLANCK'S STRIDE - GR/SWASH
 dimwishlist:item=820890091&perks=,1631667848,4082225868
+
+[SERAPH]
+
+disparity - RH/desp
+dimwishlist:item=1751893422&perks=247725512,3047969693
+
+tripwire canary - DF/swash
+dimwishlist:item=3849444474&perks=2848615171,4082225868
+
+judgement of kalgoroth - pug/incan
+dimwishlist:item=2978226043&perks=691659142,4293542123
+
+path of least resistance - SFA/volt
+dimwishlist:item=2827764482&perks=1583705720,2173046394
+
+fire and forget - HS/CC
+dimwishlist:item=2272041093&perks=124408337,2978966579
+
+retrofit escape - zen/TTT
+dimwishlist:item=3103325054&perks=2387244414,1890422124
+
+ikelos HC 3 - sub/rampage
+dimwishlist:item=1731355324&perks=1820235745,3425386926
+
+ikelos smg 3 - FF/volt - DSR/TTT
+dimwishlist:item=2149683300&perks=2779035018,2173046394
+dimwishlist:item=2149683300&perks=1359896290,1890422124
+
+ikelos sg 3 - sub/incan
+dimwishlist:item=1168625549&perks=1820235745,4293542123
+
+ikelos sr 3 - OF/FF
+dimwishlist:item=2302346155&perks=3643424744,2896038713
 
 [LAST WISH]
 
