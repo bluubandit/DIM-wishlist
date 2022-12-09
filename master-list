@@ -857,6 +857,13 @@ dimwishlist:item=1532276803&perks=,2846385770,1365187766
 ROAR OF THE BEAR - IA/CC
 dimwishlist:item=4009352833&perks=,951095735,1275731761
 
+dark decider - sub/volt
+dimwishlist:item=540880995&perks=1820235745,2173046394
+
+gunnora's axe - MT/OS - ALH/vorpal
+dimwishlist:item=487361141&perks=588594999,47981717
+dimwishlist:item=487361141&perks=3300816228,1546637391
+
 [ORDEALS]
 
 the swarm - surplus/1FA
@@ -874,12 +881,12 @@ dimwishlist:item=432476743&perks=2450788523,2846385770
 (adept)
 dimwishlist:item=1481892490&perks=2450788523,2846385770
 
-hung jury - RH/firefly(box breathing)
+hung jury - RH/firefly(EP)
 dimwishlist:item=4281371574&perks=247725512,3824105627
 dimwishlist:item=4281371574&perks=247725512,2551157718
 (adept)
-dimwishlist:item=681067419&perks=247725512,3824105627
-dimwishlist:item=681067419&perks=247725512,2551157718
+dimwishlist:item=4074251943&perks=247725512,3824105627
+dimwishlist:item=4074251943&perks=247725512,3038247973
 
 plug one - FF/resevior burst
 dimwishlist:item=1289000550&perks=2779035018,1427256713
@@ -924,6 +931,11 @@ THE MILITIA'S BIRTHRIGHT - AA/OFA
 dimwishlist:item=40394833&perks=,2010801679,4049631843
 (ADEPT)
 dimwishlist:item=2378101424&perks=,2010801679,4049631843
+
+wendigo gl3 - spike/(CC/FP/ALH)/EL
+dimwishlist:item=555148853&perks=3301904089,2284787283,3194351027
+dimwishlist:item=555148853&perks=3301904089,2869569095,3194351027
+dimwishlist:item=555148853&perks=3301904089,3300816228,3194351027
 
 [VAULT OF GLASS]
 
@@ -1098,6 +1110,16 @@ THE INQUISITOR - SH/OS
 dimwishlist:item=2185327324&perks=,509074078,47981717
 (ADEPT)
 dimwishlist:item=2307365&perks=,509074078,47981717
+
+exalted truth - RF/KC
+dimwishlist:item=3102421004&perks=2846385770,1015611457
+adept
+dimwishlist:item=3920882229&perks=2846385770,1015611457
+
+unwavering duty -sub/KT
+dimwishlist:item=3624844116&perks=1820235745,557221067
+adept
+dimwishlist:item=2759251821&perks=1820235745,557221067
 
 [30th ANNIVERSARY]
 
