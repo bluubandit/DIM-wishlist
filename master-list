@@ -464,20 +464,21 @@ dimwishlist:item=4037745684&perks=3300816228,3523296417
 succession - recon/vorpal
 dimwishlist:item=2990047042&perks=1523832109,1546637391
 
-trustee - surplus/wellspring
-dimwishlist:item=1392919471&perks=3436462433,3592538738
+trustee - RH/incan
+dimwishlist:item=1392919471&perks=247725512,4293542123
 
-posterity - recon/rampage
-dimwishlist:item=3281285075&perks=1523832109,3425386926
+posterity - volt/frenzy
+dimwishlist:item=3281285075&perks=2173046394,4104185692
 
-bequest - thresh/assassin's
-dimwishlist:item=3366545721&perks=2726471870,354401740
+bequest - well/CR
+dimwishlist:item=3366545721&perks=3592538738,2396489472
 
-commemoration - recon/rampage
-dimwishlist:item=4230965989&perks=1523832109,3425386926
+commemoration - subsist/KT
+dimwishlist:item=4230965989&perks=1820235745,557221067
 
-heritage - recon/recombination
-dimwishlist:item=4248569242&perks=1523832109,469285294
+heritage - slide/MT - recon/FF
+dimwishlist:item=4248569242&perks=3161816588,588594999
+dimwishlist:item=4248569242&perks=1523832109,2896038713
 
 [HUNT]
 deafening whisper AA/rampage
