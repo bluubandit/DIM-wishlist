@@ -245,6 +245,28 @@ dimwishlist:item=2566006935&perks=691659142,776531651
 aurvvandil fr6 - recon/CC
 dimwishlist:item=963710795&perks=1523832109,2978966579
 
+CORONACH-22 -FF/incan
+dimwishlist:item=355382946&perks=
+
+BATTLE SCAR - KA/KT-HS
+dimwishlist:item=2099894368&perks=3619207468,3891536761
+dimwishlist:item=2099894368&perks=3619207468,460017080
+
+SENUNA SI6 - UP/HS
+dimwishlist:item=5159537&perks=1645158859,460017080
+
+HAND IN HAND - slide/GT
+dimwishlist:item=664109750&perks=3161816588,2610012052
+
+HARSH LANGUAGE - EA/DR-RB
+dimwishlist:item=1606497639&perks=968510818,2048641572
+dimwishlist:item=1606497639&perks=968510818,776531651
+
+NASREDDIN - RS/WB
+dimwishlist:item=1456017061&perks=1749209109,3913600130
+
+MARSILION-C - spike/EA/vorpal
+dimwishlist:item=867154247&perks=3301904089,968510818,1546637391
 
 [RITUAL ACTIVITIES]
 
@@ -338,6 +360,14 @@ dimwishlist:item=1903182562&perks=3977735242,3927722942
 albruna-d - CC/FL
 dimwishlist:item=676270382&perks=2284787283,1771339417
 
+NAMELESS MIDNIGHT - 3tap/KT
+dimwishlist:item=996109059&perks=3400784728,3891536761
+
+AUTUMN WIND - HU/HS
+dimwishlist:item=3110377595&perks=1570042021,460017080
+
+TRUST -surplus/incan
+dimwishlist:item=2850664015&perks=3436462433,4293542123
 
 [PROPHECY]
 
@@ -669,6 +699,26 @@ dimwishlist:item=1168625549&perks=1820235745,4293542123
 ikelos sr 3 - OF/FF
 dimwishlist:item=2302346155&perks=3643424744,2896038713
 
+[DEFIANCE]
+
+perpetualis - KW/hatch
+dimwishlist:item=392008588&perks=839105230,3230963543,2450788523,831391274
+
+raconteur - well/HS
+dimwishlist:item=45643573&perks=3592538738,124408337
+
+prodigal return - spike/FP/volt
+dimwishlist:item=268260373&perks=3301904089,2869569095,2173046394
+
+royal executioner - LFG/incan
+dimwishlist:item=1720503118&perks=1556840489,4293542123
+
+caretaker - TB/incan
+dimwishlist:item=2508948099&perks=2590710093,4293542123
+
+regnant - RB/DR
+dimwishlist:item=268260372&perks=776531651,2048641572
+
 [LAST WISH]
 
 chattering bone - outlaw/rampage
@@ -820,6 +870,39 @@ father's sin - 3tap/FF - UP/snap
 dimwishlist:item=3865728990,3400784728,2896038713
 dimwishlist:item=3865728990,1645158859,957782887
 
+[NEOMUNA]
+
+phyllotactic spiral - KA/volt - TV/HS
+dimwishlist:item=3635821806&perks=3619207468,2173046394
+dimwishlist:item=3635821806&perks=2946784966,460017080
+
+round robin - sub/hatch - KA/OS
+dimwishlist:item=2034215657&perks=1820235745,831391274
+dimwishlist:item=2034215657&perks=3619207468,47981717
+
+synchronic roulette - PM/hatch (pug) - EA/CP
+dimwishlist:item=811403305&perks=972757866,831391274
+dimwishlist:item=811403305&perks=972757866,691659142
+dimwishlist:item=811403305&perks=968510818,3751912585
+
+bossa ostinato - LFG/DR
+dimwishlist:item=2573900604&perks=1556840489,2048641572
+
+iterative loop - CR/volt
+dimwishlist:item=1289796511&perks=671806388,2173046394
+
+volta bracket - sub/hatch - KA/OS
+dimwishlist:item=3920310144&perks=1820235745,831391274
+dimwishlist:item=3920310144&perks=3619207468,47981717
+
+DIMENSIONAL HYPOTROCHOID - EA/vorpal - FP/CR
+dimwishlist:item=1311684613&perks=968510818,1546637391
+dimwishlist:item=1311684613&perks=2869569095,2396489472
+
+circular logoc - FF/GT
+dimwishlist:item=2187717691&perks=2779035018,2610012052
+
+
 [IRON BANNER]
 
 fool's remady - subsist/KC
@@ -871,8 +954,9 @@ dimwishlist:item=1141547457,247725512,1015611457
 THE WIZENED REBUKE - UP/BP
 dimwishlist:item=1999697514&perks=,1645158859,1600092898
 
-THE HERO'S BURDEN - ZM/KC
+THE HERO'S BURDEN - ZM/KC - FF/DR
 dimwishlist:item=2488587246&perks=,2387244414,1015611457
+dimwishlist:item=1028124540&perks=2779035018,2048641572
 
 ALLIED DEMAND - RF/GSS
 dimwishlist:item=1532276803&perks=,2846385770,1365187766
@@ -887,12 +971,21 @@ gunnora's axe - MT/OS - ALH/vorpal
 dimwishlist:item=487361141&perks=588594999,47981717
 dimwishlist:item=487361141&perks=3300816228,1546637391
 
+JORUM'S CLAW - encore/HS
+dimwishlist:item=62937067&perks=1195158366,460017080
+
+BITE OF THE FOX - SS/EP-OS
+dimwishlist:item=1403800851&perks=957782887,3038247973
+dimwishlist:item=1403800851&perks=957782887,47981717
+
 [ORDEALS]
 
-the swarm - surplus/1FA
+the swarm - surplus/1FA - FF/GT - DSR/TTT
 dimwishlist:item=47772649&perks=3436462433,4049631843
 (adept)
 dimwishlist:item=3836861464&perks=3436462433,4049631843
+dimwishlist:item=566740455&perks=2779035018,2610012052
+dimwishlist:item=566740455&perks=1359896290,1890422124
 
 shadow price - surplus/swash
 dimwishlist:item=2633186522&perks=3436462433,4082225868
@@ -904,12 +997,13 @@ dimwishlist:item=432476743&perks=2450788523,2846385770
 (adept)
 dimwishlist:item=1481892490&perks=2450788523,2846385770
 
-hung jury - RH/firefly(EP)
+hung jury - RH/firefly(EP) RH/KT
 dimwishlist:item=4281371574&perks=247725512,3824105627
 dimwishlist:item=4281371574&perks=247725512,2551157718
 (adept)
 dimwishlist:item=4074251943&perks=247725512,3824105627
 dimwishlist:item=4074251943&perks=247725512,3038247973
+dimwishlist:item=2883684343&perks=247725512,3891536761
 
 plug one - FF/resevior burst
 dimwishlist:item=1289000550&perks=2779035018,1427256713
@@ -959,6 +1053,10 @@ wendigo gl3 - spike/(CC/FP/ALH)/EL
 dimwishlist:item=555148853&perks=3301904089,2284787283,3194351027
 dimwishlist:item=555148853&perks=3301904089,2869569095,3194351027
 dimwishlist:item=555148853&perks=3301904089,3300816228,3194351027
+
+BUZZARD (ADEPT) - OL/KR - encore/frenzy
+dimwishlist:item=927835311&perks=3643424744,3891536761
+dimwishlist:item=927835311&perks=1195158366,4104185692
 
 [VAULT OF GLASS]
 
@@ -1069,8 +1167,9 @@ dimwishlist:item=1313528549&perks=2590710093,2396489472
 adept
 dimwishlist:item=3847137620&perks=2590710093,2396489472
 
-astral horizon - surplus/OS
+astral horizon - surplus/OS - slide/OS
 dimwishlist:item=1697682876&perks=3436462433,47981717
+dimwishlist:item=2653171213&perks=3161816588,47981717
 adept
 dimwishlist:item=532746994&perks=3436462433,47981717
 
@@ -1143,6 +1242,10 @@ unwavering duty -sub/KT
 dimwishlist:item=3624844116&perks=1820235745,557221067
 adept
 dimwishlist:item=2759251821&perks=1820235745,557221067
+
+THE IMMORTAL - RF/TTT - TD/hatch
+dimwishlist:item=4039572196&perks=2846385770,1890422124
+dimwishlist:item=4039572196&perks=4071163871,831391274
 
 [30th ANNIVERSARY]
 
