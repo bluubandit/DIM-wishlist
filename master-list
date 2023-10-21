@@ -1509,22 +1509,27 @@ dimwishlist:item=3257091167&perks=2077819806,1546637391
 [EVENTS]
 
 FOTL
-jurassic green - sub/incan - PM/MKC
-dimwishlist:item=2603335652&perks=,1820235745,4293542123
-dimwishlist:item=2603335652&perks=,1428297954,2458213969
+jurassic green - HC/incan - KA/GT
+dimwishlist:item=3103255595&perks=3017780555,4293542123
+dimwishlist:item=3103255595&perks=3619207468,2610012052
 
 braytech werewolf - pug/swash - DSR/TTT
 dimwishlist:item=2869466318&perks=,691659142,4082225868
 dimwishlist:item=2869466318&perks=,1359896290,1890422124
 
-horror story - subsist/demo - KW/moving target
-dimwishlist:item=3829285960&perks=1820235745,3523296417
-dimwishlist:item=3829285960&perks=2450788523,588594999
+horror story - HS/demo - dis/cas - dsr/tl
+dimwishlist:item=177568179&perks=3523296417,124408337
+dimwishlist:item=177568179&perks=3978468247,3751912585
+dimwishlist:item=177568179&perks=1359896290,365154968
 
-mechabre - CC/vorpal - snap/OS PM/volt
-dimwishlist:item=1280894514&perks=,2284787283,1546637391
+mechabre - 3T/vorpal - KA/os - demo/volt
 dimwishlist:item=1280894514&perks=,957782887,47981717
-dimwishlist:item=1280894514&perks=,1428297954,2173046394
+dimwishlist:item=3871226707&perks=3400784728,1546637391
+dimwishlist:item=3871226707&perks=3619207468,47981717
+dimwishlist:item=3871226707&perks=3523296417,2173046394
+
+acosmic - LC/DR
+dimwishlist:item=413901114&perks=2284787283,2048641572
 
 
 Dawning
