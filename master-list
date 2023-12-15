@@ -1610,25 +1610,35 @@ dimwishlist:item=413901114&perks=2284787283,2048641572
 
 
 Dawning
-cold fornt - subsist/rampage - TTT/RF
+cold fornt - subsist/rampage - TTT/RF - TTT/CP - RWR/decon
 dimwishlist:item=2814093983&perks=1820235745,3425386926
 dimwishlist:item=2814093983&perks=1890422124,2846385770
+dimwishlist:item=3206190066&perks=1890422124,3751912585
+dimwishlist:item=3206190066&perks=3418782618,3993379141
 
 avalanche - sub/incan - surplus/TTT
 dimwishlist:item=495940989&perks=1820235745,4293542123
 dimwishlist:item=495940989&perks=3436462433,1890422124
+dimwishlist:item=4220529694&perks=1820235745,4293542123
 
-glacioclasm - susbsist/resevior burst - repulse/GT
+glacioclasm - susbsist/resevior burst - repulse/GT - OF/RB(CB)
 dimwishlist:item=3573686365&perks=1820235745,1427256713
 dimwishlist:item=3573686365&perks=,776531651,2610012052
+dimwishlist:item=2728851518&perks=3643424744,1427256713
+dimwishlist:item=2728851518&perks=3643424744,2594592626
 
 zephyr - relentless/whrilwind (cold steel)
 dimwishlist:item=396910433&perks=1749209109,3913600130
 dimwishlist:item=396910433&perks=1749209109,3650930298
+dimwishlist:item=2728851518&perks=3643424744,2594592626
 
 stay frosty - encore/KC - thresh/adaptive
 dimwishlist:item=2812100428&perks=1195158366,1015611457
 dimwishlist:item=2812100428&perks=2726471870,1048183818
+dimwishlist:item=1891321753&perks=1195158366,460017080
+
+ALBEDO WING - GR/C2M
+dimwishlist:item=2680976411&perks=1631667848,1782407750
 
 GG
 the title - MT/swash - TD/RB - DSR/RF
