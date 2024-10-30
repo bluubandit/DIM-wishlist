@@ -1115,6 +1115,24 @@ dimwishlist:item=3830941962&perks=684456054,3966416502
 Heretic's Fervor - FP/BI
 dimwishlist:item=4224667951&perks=2869569095,1439600632
 
+[VESPERS HOST]
+
+VS Gravitic Arrest - RB/WG
+dimwishlist:item=93061497&perks=776531651,1134488199
+dimwishlist:item=93061497&perks=1645158859,1194056669
+
+VS Chill Inhibitor - EA-CP/BS
+dimwishlist:item=1762785662&perks=3987942396,3078487919
+dimwishlist:item=1762785662&perks=3987942396,3078487919
+
+VS Velocity Baton - DEMO/AO-DR
+dimwishlist:item=1762785663&perks=3523296417,243981275
+dimwishlist:item=1762785663&perks=3523296417,2048641572
+
+VS Pyroelectric Propellant - EC/JF-OS
+dimwishlist:item=4232480042&perks=684456054,3966416502
+dimwishlist:item=4232480042&perks=684456054,95528736
+
 [LAST WISH]
 
 CHATTERING BONE - KC/HS
@@ -1437,6 +1455,9 @@ LETHAL ABUNDANCE - EA/onsl - slice/hatch
 dimwishlist:item=2189073092&perks=3828510309,95528736
 dimwishlist:item=2189073092&perks=923806249,831391274
 
+Tinasha's Mastery - LC/CC
+dimwishlist:item=480368036&perks=1119449540,2978966579
+
 [ORDEALS]
 
 the swarm - surplus/1FA - FF/GT - DSR/TTT
@@ -1530,6 +1551,12 @@ dimwishlist:item=267089201&perks=3828510309,1015611457
 
 UNDERCURRENT (ADEPT) - AA/volt
 dimwishlist:item=672957262&perks=2010801679,2173046394
+
+Rake Angle (Adept) - OF/CC
+dimwishlist:item=3997086838&perks=3643424744,2978966579
+
+PLUG ONE.1 (Adept) - UP/CT
+dimwishlist:item=3106557243&perks=1645158859,1194056669
 
 [VAULT OF GLASS]
 
