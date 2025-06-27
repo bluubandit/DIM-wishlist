@@ -553,11 +553,26 @@ dimwishlist:item=2313726158&perks=247725512,2387244414
 
 [PROPHECY]
 
-the last breath - demo/frenzy
-dimwishlist:item=507038823&perks=3523296417,4104185692
+prosecutor - sub/onsl - ec/volt - ka/tl
+dimwishlist:item=749483159&perks=1820235745,95528736
+dimwishlist:item=749483159&perks=684456054,2173046394
+dimwishlist:item=880829467&perks=1820235745,95528736
+dimwishlist:item=880829467&perks=684456054,2173046394
+dimwishlist:item=2129814338&perks=1820235745,95528736
+dimwishlist:item=2129814338&perks=684456054,2173046394
+dimwishlist:item=4025177550&perks=1820235745,95528736
+dimwishlist:item=4025177550&perks=684456054,2173046394
+dimwishlist:item=749483159&perks=3619207468,365154968
+dimwishlist:item=880829467&perks=3619207468,365154968
+dimwishlist:item=2129814338&perks=3619207468,365154968
+dimwishlist:item=4025177550&perks=3619207468,365154968
 
-judgment - demo/TP
+judgment - demo/TP - hs/tp
 dimwishlist:item=1476654960&perks=3523296417,1954620775
+dimwishlist:item=1773934241&perks=124408337,1954620775
+dimwishlist:item=1987644603&perks=124408337,1954620775
+dimwishlist:item=2226572694&perks=124408337,1954620775
+dimwishlist:item=3329218848&perks=124408337,1954620775
 
 a swift verdict - TV/KC
 dimwishlist:item=1626503676&perks=2946784966,1015611457
@@ -565,12 +580,26 @@ dimwishlist:item=1626503676&perks=2946784966,1015611457
 darkest before - subsist/rampage
 dimwishlist:item=2481758391&perks=1820235745,3425386926
 
-a sudden death - graverobber/1-2P
+a sudden death - graverobber/1-2P - 1/2p/trench
 dimwishlist:item=2855157553&perks=1631667848,2679249093
+dimwishlist:item=1626437786&perks=2679249093,2360754333
+dimwishlist:item=1904170910&perks=2679249093,2360754333
+dimwishlist:item=1976481399&perks=2679249093,2360754333
+dimwishlist:item=2764074355&perks=2679249093,2360754333
 
 the long walk - overflow/FL - overflow/snap
 dimwishlist:item=3326850591&perks=3643424744,1771339417
 dimwishlist:item=3326850591&perks=3643424744,957782887
+
+relentless - FF/hatch - ka/hs
+dimwishlist:item=1066598837&perks=3824105627,831391274
+dimwishlist:item=1066598837&perks=3619207468,460017080
+dimwishlist:item=1827058652&perks=3824105627,831391274
+dimwishlist:item=1827058652&perks=3619207468,460017080
+dimwishlist:item=3681280908&perks=3824105627,831391274
+dimwishlist:item=3681280908&perks=3619207468,460017080
+dimwishlist:item=3733988413&perks=3824105627,831391274
+dimwishlist:item=3733988413&perks=3619207468,460017080
 
 [DUALITY]
 
