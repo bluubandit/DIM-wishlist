@@ -40,11 +40,14 @@ dimwishlist:item=266021826&perks=3573490505,3573490500
 Auric Disabler - ZM/TL
 dimwishlist:item=702001725&perks=2387244414,365154968
 
-Ahab Char - SUB/BA
+Ahab Char - SUB-HC/BA - PP/SWASH
 dimwishlist:item=1411560894&perks=1820235745,2890807135
+dimwishlist:item=1411560894&perks=3017780555,2890807135
+dimwishlist:item=1411560894&perks=4190679284,4082225868
 
-Jurisprudent - RS/HS
+Jurisprudent - RS-RH/HS
 dimwishlist:item=4090134063&perks=1955165503,124408337
+dimwishlist:item=4090134063&perks=247725512,124408337
 
 Aisha's Embrace - DM/DR
 dimwishlist:item=3709368142&perks=1464081238,2048641572
@@ -52,8 +55,10 @@ dimwishlist:item=3709368142&perks=1464081238,2048641572
 Stars in Shadow - RH/BA
 dimwishlist:item=3602242905&perks=247725512,2890807135
 
-Mint Retrograde - RWR/CR
+Mint Retrograde - RWR/CR - EA/CR
 dimwishlist:item=42435996&perks=3418782618,2396489472
+dimwishlist:item=42435996&perks=3987942396,2396489472
+dimwishlist:item=42435996&perks=1583705720,4049631843
 
 Aureus Neutralizer - TR/12P
 dimwishlist:item=3981920134&perks=1126264488,2679249093
@@ -65,11 +70,15 @@ dimwishlist:item=3496887154&perks=4190679284,3708227201
 Solemn Remembrance - HS/FF
 dimwishlist:item=4116518582&perks=124408337,3824105627
 
-Qua Nilus II - SLICE/HATCH
+Qua Nilus II - SLICE/HATCH - PP/SURR
 dimwishlist:item=190747610&perks=923806249,831391274
+dimwishlist:item=190747610&perks=4190679284,3708227201
 
-Yeartide Apex - FF/BA
-dimwishlist:item=3293207827&perks=2779035018,2890807135
+Yeartide Apex - HC/BA-INCAN FF-AO/CR 
+dimwishlist:item=3293207827&perks=3017780555,2890807135
+dimwishlist:item=3293207827&perks=3017780555,4293542123
+dimwishlist:item=3293207827&perks=2779035018,3640170453
+dimwishlist:item=3293207827&perks=243981275,3640170453
 
 Faustus Decline - RS/HS
 dimwishlist:item=1663482635&perks=1955165503,124408337
@@ -78,31 +87,40 @@ Forgiveness - TTT/HS
 dimwishlist:item=1552443158&perks=1890422124,460017080
 dimwishlist:item=1552443158&perks=2173046394,1119449540
 
-Mercury-A - SW/HG
+Mercury-A - SW/HG RH/KT
 dimwishlist:item=2838279629&perks=2652708987,2319119708
+dimwishlist:item=2838279629&perks=247725512,3891536761
 
-Pre Astyanax IV - INCAN/BA
+Pre Astyanax IV - INCAN-FF/BA
 dimwishlist:item=471764396&perks=4293542123,2890807135
+dimwishlist:item=471764396&perks=3824105627,2890807135
 
-Trachinus - RS/CC
+Trachinus - RS/CC RH/HS
 dimwishlist:item=3635232671&perks=1955165503,2978966579
+dimwishlist:item=3635232671&perks=247725512,124408337
 
-Pure Recollection - EA/BS
+Pure Recollection - EA/BS-WG
 dimwishlist:item=1956186483&perks=3987942396,3078487919
+dimwishlist:item=1956186483&perks=3987942396,1134488199
 
-Theodolite - RECON/RT - ec/volt
-dimwishlist:item=4146673635&perks=1523832109,113508675
+Theodolite - EC/volt-RS - BD/FRENZY
 dimwishlist:item=4146673635&perks=684456054,2173046394
+dimwishlist:item=1956186483&perks=3987942396,1134488199
 
-Festival Flight - EA/OFA
+Festival Flight - EA/OFA - BD/AO-FRENZY
 dimwishlist:item=4019651319&perks=2010801679,4049631843
+dimwishlist:item=4019651319&perks=3696140595,984655331
+dimwishlist:item=4019651319&perks=3696140595,3007133316
 
-Lionfish-4fr - RECON/CC-RB
+Lionfish-4fr - RECON/CC-RB-CB
 dimwishlist:item=2423071981&perks=1523832109,2978966579
 dimwishlist:item=2423071981&perks=1523832109,1427256713
+dimwishlist:item=2423071981&perks=1523832109,2594592626
 
-Shoreline Dissident - 3T/HG
-dimwishlist:item=1193318082&perks=3400784728,2319119708
+Shoreline Dissident - OL/DEMOR - EP/DR - 3T/HG
+dimwishlist:item=1193318082&perks=1168162263,1464081238
+dimwishlist:item=1193318082&perks=3038247973,2048641572
+dimwishlist:item=1193318082&perks=3400784728,555281244
 
 Ribbontail - SUB/KT - PP/SURR
 dimwishlist:item=3576134513&perks=1820235745,557221067
@@ -123,9 +141,11 @@ Boomslang-4fr - RS/JF - RH/PI
 dimwishlist:item=3926153598&perks=3218042543,3966416502
 dimwishlist:item=3926153598&perks=247725512,555281244
 
-Outrageous Fortune - EA/BS - INCAN/CR
+Outrageous Fortune - EA/BS - FP/CR - INCAN/BA - BD/EL
 dimwishlist:item=4146673634&perks=3987942396,3078487919
-dimwishlist:item=4146673634&perks=4293542123,2396489472
+dimwishlist:item=4146673634&perks=2869569095,2396489472
+dimwishlist:item=4146673634&perks=4293542123,2890807135
+dimwishlist:item=4146673634&perks=1017229899,3194351027
 
 Unwavering Duty - SUB/KT
 dimwishlist:item=3489054606&perks=1820235745,557221067
