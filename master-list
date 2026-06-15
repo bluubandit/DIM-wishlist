@@ -87,6 +87,67 @@ dimwishlist:item=391069235&perks=1523832109,3764420437
 
 [RENEGADES/TRIUMPH]
 
+Chain of Command - SUB/KT-AM
+dimwishlist:item=1716620044&perks=1820235745,557221067
+dimwishlist:item=1716620044&perks=1820235745,1048183818
+
+21% Delirium - OF/KT + TC/RS
+dimwishlist:item=3001598094&perks=3643424744,557221067
+dimwishlist:item=3001598094&perks=1115162408,3218042543
+
+Bane of Sorrow - DEMOR/MEGA
+dimwishlist:item=3779290676&perks=1464081238,657025441
+
+Scintillation - RWR/BNS
+dimwishlist:item=1207321710&perks=3418782618,3078487919
+
+Ascendancy - RECON/BIPOD
+dimwishlist:item=1713388226&perks=1523832109,1439600632
+
+Cry Mutiny - INCAN/AC + DZ/SURR
+dimwishlist:item=768696858&perks=4293542123,3764420437
+dimwishlist:item=768696858&perks=960810156,3708227201
+
+Edge Transit - EA/BNS + ALH/DECON
+dimwishlist:item=3736001863&perks=3987942396,3078487919
+dimwishlist:item=3736001863&perks=3300816228,3993379141
+
+Doomsday - EA/BNS + SM/JF
+dimwishlist:item=713132408&perks=3987942396,3078487919
+dimwishlist:item=713132408&perks=1511100135,3966416502
+
+Chivalric Fire - RB/DR + SH/EE
+dimwishlist:item=938936806&perks=776531651,2048641572
+dimwishlist:item=938936806&perks=4132187021,2077819806
+
+The Slammer - RS/CS + EE/CR
+dimwishlist:item=2466028274&perks=1955165503,3650930298
+dimwishlist:item=2466028274&perks=2077819806,3640170453
+
+Hardline Cut - RS/JF + AB/EE
+dimwishlist:item=3461043766&perks=1749209109,3966416502
+dimwishlist:item=3461043766&perks=354401740,2077819806
+
+Ecliptic Distaff - RB/DR + GR/CTM-CR
+dimwishlist:item=1942143745&perks=776531651,2048641572
+dimwishlist:item=1942143745&perks=1631667848,1782407750
+dimwishlist:item=1942143745&perks=1631667848,3640170453
+
+Adored - SS/MT + SM/CA
+dimwishlist:item=891765152&perks=957782887,588594999
+dimwishlist:item=891765152&perks=1511100135,3324494224
+
+The Helmsman - SS/OS
+dimwishlist:item=2325078119&perks=957782887,47981717
+
+Succession - RECON/AC
+dimwishlist:item=2731922624&perks=1523832109,3764420437
+
+Alone as a god - AO/AO + RWR/KT-AC
+dimwishlist:item=353884603&perks=1202584452,3252937884
+dimwishlist:item=353884603&perks=3418782618,3891536761
+dimwishlist:item=353884603&perks=3418782618,3764420437
+
 Resounding - SLICE/STRAT
 dimwishlist:item=3273807888&perks=923806249,880644845
 
@@ -362,9 +423,9 @@ dimwishlist:item=4062069077&perks=124408337,3824105627
 Something Something - nd/box
 dimwishlist:item=3421075982&perks=2866798147,2551157718
 
-Action Item - rwr(decon)/tl 
-dimwishlist:item=527989828&perks=3418782618,365154968
-dimwishlist:item=527989828&perks=3993379141,365154968
+Action Item -  RWR/CC + DECON/DB
+dimwishlist:item=527989828&perks=3418782618,2922950962
+dimwishlist:item=527989828&perks=3993379141,4198902903
 
 The Heron - rb(of)/dr
 dimwishlist:item=2246386812&perks=776531651,2048641572
@@ -598,8 +659,10 @@ dimwishlist:item=1079872540&perks=124408337,2848615171
 
 [WORLD]
 
-temptation's hook - tireless/vorpal
+temptation's hook - tireless/vorpal * AO/JF
 dimwishlist:item=35794111&perks=2590710093,1546637391
+
+dimwishlist:item=3977827673&perks=243981275,3966416502
 
 whispering slab - tempo/vorpal
 dimwishlist:item=211938782&perks=201365942,1546637391
@@ -607,8 +670,12 @@ dimwishlist:item=211938782&perks=201365942,1546637391
 hollow words - slide/vorpal
 dimwishlist:item=607191995&perks=2039302152,1546637391
 
-falling guillotine - relentless/whirlwind
+falling guillotine - relentless/whirlwind * FRENZY/BNS-SURR + RB/DR
 dimwishlist:item=614426548&perks=1749209109,3913600130
+
+dimwishlist:item=2480871539&perks=4104185692,3078487919
+dimwishlist:item=2480871539&perks=4104185692,3708227201
+dimwishlist:item=2480871539&perks=776531651,2048641572
 
 cold denial - KW/swash * ZM/HS
 dimwishlist:item=1216130969&perks=2450788523,4082225868
@@ -646,8 +713,10 @@ dimwishlist:item=214545213&perks=1820235745,3425386926
 dimwishlist:item=214545213&perks=776531651,2048641572
 dimwishlist:item=214545213&perks=1134488199,365154968
 
-bad omens - tracking/cluster
+bad omens - tracking-DR/cluster
 dimwishlist:item=991314988&perks=3977735242,1275731761
+
+dimwishlist:item=1996201272&perks=2048641572,1275731761
 
 jian 7 - DB/rampage
 dimwishlist:item=1162247618&perks=1683379515,3425386926
@@ -1034,6 +1103,7 @@ dimwishlist:item=2050789284&perks=3436462433,1015611457
 
 frozen orbit - app mag/3tap/vorpal
 dimwishlist:item=3473290087&perks=1087426260,3400784728,1546637391
+dimwishlist:item=1516542120&perks=1087426260,3400784728,1546637391
 
 the keening - RH/vorpal * VOLT/JF
 dimwishlist:item=409551876&perks=247725512,1546637391
@@ -1153,6 +1223,9 @@ LASER PAINTER - clown/vorpal (hatch)
 dimwishlist:item=3221722018&perks=2284787283,1546637391
 dimwishlist:item=3221722018&perks=2284787283,831391274
 
+dimwishlist:item=1439354195&perks=2284787283,1546637391
+dimwishlist:item=1439354195&perks=2284787283,831391274
+
 LUNA REGOLITH III - CC/FL - HC/INCAN
 dimwishlist:item=1948035256&perks=2284787283,1771339417
 dimwishlist:item=1948035256&perks=3017780555,4293542123
@@ -1190,8 +1263,12 @@ dimwishlist:item=2150012406&perks=2387244414,460017080
 Backfang - ia/jf
 dimwishlist:item=267672635&perks=951095735,3966416502
 
-Cynosure - recon/eh
+dimwishlist:item=1277470844&perks=951095735,3966416502
+
+Cynosure - recon/eh-AC
 dimwishlist:item=694275488&perks=1523832109,1089671869
+
+dimwishlist:item=2827141087&perks=1523832109,3764420437
 
 Wicked Sister - ea/bs
 dimwishlist:item=2039776723&perks=3987942396,3078487919
@@ -1829,8 +1906,11 @@ dimwishlist:item=3236112986&perks=3161816588,47981717
 dimwishlist:item=810474119&perks=247725512,1015611457
 dimwishlist:item=810474119&perks=3824105627,4049631843
 
-SOLE SURVIVOR - OL/VOLT
+SOLE SURVIVOR - OL-EC/VOLT
 dimwishlist:item=1150492185&perks=1168162263,2173046394
+
+dimwishlist:item=2920648677&perks=1168162263,2173046394
+dimwishlist:item=2920648677&perks=684456054,2173046394
 
 OUTLAST - ENCORE/KC
 dimwishlist:item=1678205741&perks=1195158366,1015611457
@@ -2030,16 +2110,22 @@ dimwishlist:item=4224667951&perks=2869569095,1439600632
 
 [HERESY]
 
-Abyssal Edge - RS/sur
+Abyssal Edge - RS/sur * SLICE/HATCH
 dimwishlist:item=547165496&perks=1749209109,3708227201
+
+dimwishlist:item=2599520828&perks=1749209109,3708227201
+dimwishlist:item=2599520828&perks=923806249,831391274
 
 Eyes Unveiled - OF/RB(WG)
 dimwishlist:item=615373993&perks=3643424744,1427256713
 dimwishlist:item=615373993&perks=3643424744,1134488199
 
-Watchful Eye - OF/KT ec/jf
+Watchful Eye - OF/KT-JF ec/jf
 dimwishlist:item=768610585&perks=3643424744,557221067
 dimwishlist:item=768610585&perks=684456054,3966416502
+
+dimwishlist:item=3058845782&perks=3643424744,557221067
+dimwishlist:item=3058845782&perks=3643424744,3966416502
 
 Afterlight - lfg/dr
 dimwishlist:item=1834313033&perks=1556840489,2048641572
@@ -2380,8 +2466,11 @@ DIMENSIONAL HYPOTROCHOID - EA/vorpal - FP/CR
 dimwishlist:item=1311684613&perks=968510818,1546637391
 dimwishlist:item=1311684613&perks=2869569095,2396489472
 
-circular logoc - FF/GT
+circular logoc - FF/GT * OF-DMEO/KT
 dimwishlist:item=2187717691&perks=2779035018,2610012052
+
+dimwishlist:item=2528793321&perks=3643424744,557221067
+dimwishlist:item=2528793321&perks=3523296417,557221067
 
 [PALE HEART]
 
@@ -2645,14 +2734,21 @@ dimwishlist:item=1289000550&perks=2779035018,1427256713
 (adept) - KW/kickstart
 dimwishlist:item=534775659&perks=2450788523,1754714824
 
-uzume - 4ttc/PI - snap/EP
+uzume - 4ttc/PI + CC/DECON - snap/EP
 dimwishlist:item=1891996599&perks=1354429876,555281244
 dimwishlist:item=1891996599&perks=957782887,3038247973
 
-the hothead - demo/EL
+dimwishlist:item=4037675261&perks=1354429876,555281244
+dimwishlist:item=4037675261&perks=2284787283,3993379141
+dimwishlist:item=4037675261&perks=1354429876,555281244
+
+the hothead - demo/EL * RECON/AC + EA/BAS
 dimwishlist:item=4255171531&perks=3523296417,3194351027
 (adept)
 dimwishlist:item=1866778462&perks=3523296417,3194351027
+
+dimwishlist:item=1692372662&perks=1523832109,3764420437
+dimwishlist:item=1692372662&perks=3987942396,3078487919
 
 the comedian - subsist/vorpal
 dimwishlist:item=1028582252&perks=1820235745,1546637391
@@ -2684,10 +2780,13 @@ dimwishlist:item=40394833&perks=,2010801679,4049631843
 (ADEPT)
 dimwishlist:item=2378101424&perks=,2010801679,4049631843
 
-wendigo gl3 - spike/(CC/FP/ALH)/EL
+wendigo gl3 - spike/(CC/FP/ALH)/EL * FP/EL + ALH/CP
 dimwishlist:item=555148853&perks=3301904089,2284787283,3194351027
 dimwishlist:item=555148853&perks=3301904089,2869569095,3194351027
 dimwishlist:item=555148853&perks=3301904089,3300816228,3194351027
+
+dimwishlist:item=4021098353&perks=2869569095,3194351027
+dimwishlist:item=4021098353&perks=3300816228,3751912585
 
 BUZZARD (ADEPT) - OL/KR - encore/frenzy
 dimwishlist:item=927835311&perks=3643424744,3891536761
@@ -2720,6 +2819,8 @@ dimwishlist:item=672957262&perks=2010801679,2173046394
 Rake Angle (Adept) - OF/CC
 dimwishlist:item=3997086838&perks=3643424744,2978966579
 
+dimwishlist:item=2201323795&perks=3643424744,2978966579
+
 PLUG ONE.1 (Adept) - UP/CT * SLIDE/KS
 dimwishlist:item=3106557243&perks=1645158859,1194056669
 
@@ -2735,6 +2836,8 @@ dimwishlist:item=4011513985&perks=3619207468,460017080
 
 Lotus-Eater (Adept) - rb/dr
 dimwishlist:item=2697143634&perks=776531651,2048641572
+
+dimwishlist:item=837298567&perks=776531651,2048641572
 
 The Palindrome (Adept) - rs/ep
 dimwishlist:item=4077588826&perks=3038247973,3218042543
@@ -3108,3 +3211,7 @@ dimwishlist:item=1605599021&perks=1820235745,2679249093
 
 The Beacon - OF/CB
 dimwishlist:item=2161618499&perks=3643424744,2594592626
+
+Keraunios - SM/JF TS/RS
+dimwishlist:item=2386208942&perks=1511100135,3966416502
+dimwishlist:item=2386208942&perks=1115162408,3218042543
