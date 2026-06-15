@@ -35,10 +35,235 @@ dimwishlist:item=266021826&perks=3573490510,3573490506
 dimwishlist:item=266021826&perks=3573490508,3573490501
 dimwishlist:item=266021826&perks=3573490505,3573490500
 
-[RENEGADES]
+[DISTORTIONS]
 
-Duty Bound - ea/on
+DECATUR 02 - PHYSIC/COL + CC/RS
+dimwishlist:item=1850748385&perks=2980589453,2298656195
+dimwishlist:item=1850748385&perks=2922950962,1955165503
+
+IRONWOOD 03 - RB/DR + TR/OTP
+dimwishlist:item=2041617874&perks=776531651,2048641572
+dimwishlist:item=2041617874&perks=1126264488,2679249093
+
+DEADHORSE 04 - RS/CC
+dimwishlist:item=822872238&perks=1955165503,2922950962
+
+TAHOMA 01 - OF/RB
+dimwishlist:item=1225851434&perks=3643424744,1427256713
+
+ALLEN 05 - TEAR/HATCH
+dimwishlist:item=423677697&perks=960997401,831391274,843406310
+
+DIABLERETS 06 - SUB/KT
+dimwishlist:item=1120206506&perks=1820235745,557221067
+
+[SRL]
+
+Snipehunt Mk. 47 - SM-JF/CR
+dimwishlist:item=193009988&perks=1511100135,3640170453
+dimwishlist:item=193009988&perks=1511100135,3640170453
+
+Vikala SMG4 - DS/CR + MT/RF
+dimwishlist:item=3210792817&perks=3182497402,3640170453
+dimwishlist:item=3210792817&perks=588594999,2846385770
+
+Accelerando-42 - OF/RB + CORN/KS
+dimwishlist:item=3610531207&perks=3643424744,1427256713
+dimwishlist:item=3610531207&perks=1799762209,1754714824
+
+Veillantif-D - HC-AT/INCAN LTAC
+dimwishlist:item=1361871430&perks=3017780555,4293542123
+dimwishlist:item=1361871430&perks=1421772400,4293542123
+dimwishlist:item=1361871430&perks=2458610193,3764420437
+
+Terciopelo-4bl - BA/AC-CR + EE/SH
+dimwishlist:item=393652859&perks=2890807135,3764420437
+dimwishlist:item=393652859&perks=2890807135,3640170453
+dimwishlist:item=393652859&perks=2077819806,4132187021
+
+Crux Celeritas IV - RECON/EH-AC
+dimwishlist:item=391069235&perks=1523832109,1089671869
+dimwishlist:item=391069235&perks=1523832109,3764420437
+
+[RENEGADES/TRIUMPH]
+
+Resounding - SLICE/STRAT
+dimwishlist:item=3273807888&perks=923806249,880644845
+
+Null Composure - OF/CB
+dimwishlist:item=2150643740&perks=3643424744,2594592626
+
+Wild Style - RECON/VW
+dimwishlist:item=4021098352&perks=1523832109,1546637391
+
+Salvager's Salvo - TC/RS + AA/VOLT + CR/RT
+dimwishlist:item=1692109318&perks=1115162408,3218042543
+dimwishlist:item=1692109318&perks=2010801679,2173046394
+dimwishlist:item=1692109318&perks=2396489472,113508675
+
+Forbearance - AA/CR + AA/VOLT
+dimwishlist:item=3736001860&perks=2010801679,2396489472
+dimwishlist:item=3736001860&perks=1421772400,2173046394
+
+The Mountaintop - ALH/RECOM + OF/VW
+dimwishlist:item=3736001861&perks=3300816228,469285294
+dimwishlist:item=3736001861&perks=3643424744,1546637391
+
+Ouster Engine - SFA/CR + RS/CC
+dimwishlist:item=2223968549&perks=1583705720,3640170453
+dimwishlist:item=2223968549&perks=1955165503,2922950962
+
+Python - RB-OF/DR
+dimwishlist:item=4276696962&perks=776531651,2048641572
+dimwishlist:item=4276696962&perks=3643424744,2048641572
+
+Reckless Endangerment - BB/AS
+dimwishlist:item=3085559077&perks=2289534249,1226351311
+
+HUSH - HFG/AG + FF/INCAN
+dimwishlist:item=3638723317&perks=1866048759,3414324643
+dimwishlist:item=3638723317&perks=3824105627,4293542123
+
+Convened Recurve - RB/DR
+dimwishlist:item=3667861447&perks=776531651,2048641572
+
+Death Adder - SUB/BA
+dimwishlist:item=2130249527&perks=1820235745,2890807135
+
+Perfect Pitch - SUB/OS + HC/INCAN
+dimwishlist:item=2191451996&perks=1820235745,95528736
+dimwishlist:item=2191451996&perks=3017780555,4293542123
+
+Whatchamacallit - LT/JF + HS/RF
+dimwishlist:item=357669417&perks=2458610193,3966416502
+dimwishlist:item=357669417&perks=460017080,2846385770
+
+The Recluse - RB/DR + SUB/CR
+dimwishlist:item=3257283337&perks=776531651,2048641572
+dimwishlist:item=3257283337&perks=1820235745,3640170453
+
+Epochal Integration - EP/CR + HC/INCAN
+dimwishlist:item=3851394887&perks=3038247973,3640170453
+dimwishlist:item=3851394887&perks=3017780555,4293542123
+
+Solemn Lie - TC/RS + KA/OS
+dimwishlist:item=1041028435&perks=1115162408,3218042543
+dimwishlist:item=1041028435&perks=1115162408,3218042543
+
+Sixth Sense - RH/MEGA-TEAR
+dimwishlist:item=3163473092&perks=247725512,657025441
+dimwishlist:item=3163473092&perks=247725512,960997401
+
+Malediction - DIS/AS
+dimwishlist:item=979721268&perks=3978468247,1226351311
+
+DFA - EP/AO
+dimwishlist:item=739029153&perks=3038247973,243981275
+
+Luna's Howl - SUB/MH + FF/CR + HC/INCAN
+dimwishlist:item=2033531688&perks=1820235745,2720533289
+dimwishlist:item=2033531688&perks=3824105627,3640170453
+dimwishlist:item=2033531688&perks=3017780555,4293542123
+
+Midnight Coup - FF/KT + BB/OFA
+dimwishlist:item=2033531689&perks=3824105627,3891536761
+dimwishlist:item=2033531689&perks=3824105627,4049631843
+
+Service Revolver -  STL/EP + RH/KT
+dimwishlist:item=59060498&perks=3700496672,3038247973
+dimwishlist:item=59060498&perks=247725512,3891536761
+
+Better Devils - RECON/MH
+dimwishlist:item=4059111041&perks=1523832109,2720533289
+
+Infinite Paths 8 - TC/RS + SM/VOLT
+dimwishlist:item=3176697588&perks=1115162408,3218042543
+dimwishlist:item=3176697588&perks=1511100135,2173046394
+
+Veles-X - RB/DR + DEMOR/FF
+dimwishlist:item=438540299&perks=776531651,2048641572
+dimwishlist:item=438540299&perks=1464081238,3824105627
+
+Elsie's Rifle - RB/DR + KA/HS
+dimwishlist:item=381446446&perks=776531651,2048641572
+dimwishlist:item=381446446&perks=3619207468,460017080
+
+Last Rite - DL/FF
+dimwishlist:item=3708636616&perks=25606670,3824105627
+
+Inbound Surveillance - STL/EP + BB/KT
+dimwishlist:item=2776506837&perks=3700496672,3038247973
+dimwishlist:item=2776506837&perks=2289534249,3891536761
+
+Hammerhead - RWR/OS
+dimwishlist:item=1346714574&perks=3418782618,95528736
+
+Bellowing Giant  - OF/AC
+dimwishlist:item=412265080&perks=3643424744,3764420437
+
+Stryker's Sure-Hand - RB/DR
+dimwishlist:item=2490460292&perks=776531651,2048641572
+
+Tatara Gaze - LT/VS
+dimwishlist:item=2531614757&perks=1087426260,2458610193,2173046394
+
+Tempered DynamoBP/CT
+dimwishlist:item=2274706510&perks=1600092898,1194056669
+
+Threat Level - OTP-GR/TB + BB/CR
+dimwishlist:item=1523151869&perks=2679249093,2360754333
+dimwishlist:item=1523151869&perks=1631667848,2360754333
+dimwishlist:item=1523151869&perks=2289534249,3640170453
+
+The Spiteful Fang - HS/FF + RS/CC
+dimwishlist:item=1094998581&perks=124408337,3824105627
+dimwishlist:item=1094998581&perks=124408337,3824105627
+
+Blast Furnace - KT/CR + HS/DESP
+dimwishlist:item=52683113&perks=3891536761,3640170453
+dimwishlist:item=52683113&perks=460017080,3047969693
+
+Kindled Orchid - STL/EP + KC/MH
+dimwishlist:item=3961462214&perks=3700496672,3038247973
+dimwishlist:item=3961462214&perks=1015611457,2720533289
+
+No Feelings - KA/BOX + RH/MEGA
+dimwishlist:item=1271275406&perks=3619207468,2551157718
+dimwishlist:item=1271275406&perks=247725512,657025441
+
+The Ringing Nail - INCAN/OS
+dimwishlist:item=3326135421&perks=4293542123,95528736
+
+Trendsetter - SM/JF + TC/RS
+dimwishlist:item=2863808104&perks=1511100135,3966416502
+dimwishlist:item=2863808104&perks=1115162408,3218042543
+
+Origin Story - AO/KT
+dimwishlist:item=2188356726&perks=243981275,3891536761
+
+Steelfeather Repeater - PP/SWASH
+dimwishlist:item=771811870&perks=4190679284,4082225868
+
+Temporal Clause - DEMO/KT
+dimwishlist:item=3132669561&perks=3523296417,557221067
+
+Pyroclastic Flow - FP/EL
+dimwishlist:item=3161496501&perks=2869569095,3194351027
+
+Trophy Hunter - 3TAP/PI
+dimwishlist:item=2566169398&perks=3400784728,555281244
+
+Pluperfect - RWR/KT
+dimwishlist:item=2203881482&perks=3418782618,3891536761
+
+Fair Judgment - RS/HS + DSR/TTT
+dimwishlist:item=4113452819&perks=1955165503,124408337
+dimwishlist:item=4113452819&perks=1359896290,1890422124
+
+Duty Bound - ea/on * BB/AO
 dimwishlist:item=260532765&perks=3828510309,95528736
+
+dimwishlist:item=260532765&perks=2289534249,1226351311
 
 Zealous Ideal - hc/incan
 dimwishlist:item=1863583117&perks=3017780555,4293542123
@@ -100,8 +325,10 @@ Fimbulwinter Stitch - scm/jf - tc/rs
 dimwishlist:item=3685829362&perks=1511100135,3966416502
 dimwishlist:item=3685829362&perks=1115162408,3218042543
 
-King Orfeo - at/mega
+King Orfeo - at/mega + EH/JF + STL/DF
 dimwishlist:item=3481382332&perks=201365942,657025441
+dimwishlist:item=3481382332&perks=3365897133,3966416502
+dimwishlist:item=3481382332&perks=3700496672,2848615171
 
 Hawthorne's Field-Forged Shotgun - lfg/cc
 dimwishlist:item=1402874079&perks=1556840489,2978966579
@@ -119,8 +346,11 @@ Monody-44 - dis/cb - corn/surr
 dimwishlist:item=3201200906&perks=3978468247,2594592626
 dimwishlist:item=3201200906&perks=1799762209,3708227201
 
-Riptide - of/cc
+Riptide - of/cc + SUB/CC
 dimwishlist:item=2297554989&perks=3643424744,2978966579
+
+dimwishlist:item=2297554989&perks=3643424744,2978966579
+dimwishlist:item=2297554989&perks=1820235745,2922950962
 
 Nox Sidereal IV - cc/rb
 dimwishlist:item=2875763009&perks=2284787283,1427256713
@@ -176,9 +406,9 @@ Refurbished A499 - snap/ac = nd/box
 dimwishlist:item=3661051060&perks=957782887,3764420437
 dimwishlist:item=3661051060&perks=2866798147,2551157718
 
-Gizmo Weft - aa/bipod
+Gizmo Weft - aa-SLICE/bipod
 dimwishlist:item=4069880346&perks=1421772400,1439600632
-
+dimwishlist:item=4069880346&perks=923806249,1439600632
 
 [EOF] 
 
@@ -337,8 +567,6 @@ dimwishlist:item=3524386983&perks=2621346526,3764420437
 dimwishlist:item=3524386983&perks=2621346526,1771339417
 dimwishlist:item=3524386983&perks=3300816228,2978966579
 
-
-
 [KEPLER]
 
 Giver's Blessing - RWR-IA/KT
@@ -382,8 +610,9 @@ dimwishlist:item=607191995&perks=2039302152,1546637391
 falling guillotine - relentless/whirlwind
 dimwishlist:item=614426548&perks=1749209109,3913600130
 
-cold denial - KW/swash
+cold denial - KW/swash * ZM/HS
 dimwishlist:item=1216130969&perks=2450788523,4082225868
+dimwishlist:item=381446446&perks=3619207468,460017080
 
 false promises - subsist/rampage
 dimwishlist:item=3143732432&perks=1820235745,3425386926
@@ -391,21 +620,31 @@ dimwishlist:item=3143732432&perks=1820235745,3425386926
 berenger's memory - spikes/field prep/DB
 dimwishlist:item=407621213&perks=3301904089,2869569095,1683379515
 
-last perdition - outlaw/rampage
+last perdition - outlaw/rampage * RF/HS
 dimwishlist:item=188882152&perks=1168162263,3425386926
 
-the deicide - surplus/demo
+dimwishlist:item=3364253967&perks=2846385770,460017080
+
+the deicide - surplus/demo * DISCORD/CP
 dimwishlist:item=217140611&perks=3436462433,3523296417
+
+dimwishlist:item=1517780158&perks=3978468247,3751912585
 
 main ingredient - under pressure/TTT
 dimwishlist:item=253196586&perks=1645158859,1890422124
 
+dimwishlist:item=4046741099&perks=1645158859,1890422124
+
 arsenic bite - tempo/rampage
 dimwishlist:item=720351795&perks=201365942,3425386926
 
-gnawing hunger - TTT/KC, Subsist/rampage
+gnawing hunger - TTT/KC + Subsist/rampage * RB/DR + WG/TL
 dimwishlist:item=821154603&perks=1890422124,1015611457
 dimwishlist:item=821154603&perks=1820235745,3425386926
+
+dimwishlist:item=214545213&perks=1820235745,3425386926
+dimwishlist:item=214545213&perks=776531651,2048641572
+dimwishlist:item=214545213&perks=1134488199,365154968
 
 bad omens - tracking/cluster
 dimwishlist:item=991314988&perks=3977735242,1275731761
@@ -434,9 +673,15 @@ last dance - QD/TTT - OL/KC
 dimwishlist:item=2009277538&perks=706527188,1890422124
 dimwishlist:item=2009277538&perks=1168162263,1015611457
 
+dimwishlist:item=4045298483&perks=706527188,1890422124
+dimwishlist:item=4045298483&perks=1168162263,1015611457
+
 lonesome - RH/KC - graverobber/swash
 dimwishlist:item=2199171672&perks=247725512,1015611457
 dimwishlist:item=2199171672&perks=1631667848,4082225868
+
+dimwishlist:item=843171043&perks=247725512,1015611457
+dimwishlist:item=843171043&perks=1631667848,4082225868
 
 interference VI - spikes/ALH/full court
 dimwishlist:item=2257180473&perks=3301904089,3300816228,2888557110
@@ -448,14 +693,18 @@ dimwishlist:item=2414141462&perks=1631667848,4082225868
 stochastic variable - FF/MKC
 dimwishlist:item=2272470786&perks=2779035018,2458213969
 
-cartesian coordinate - FF/vorpal
+cartesian coordinate - FF/vorpal * RECAN/CB
 dimwishlist:item=2481881293&perks=2779035018,1546637391
+
+dimwishlist:item=3719824177&perks=1523832109,3764420437
 
 the number - surplus/1FA
 dimwishlist:item=2492081469&perks=3436462433,4049631843
 
-true prophecy - RF/EP
+true prophecy - RF/EP * LT/JF
 dimwishlist:item=2742838700&perks=2846385770,3038247973
+
+dimwishlist:item=960948343&perks=2458610193,3966416502
 
 dire promise - snap/RF
 dimwishlist:item=2742838701&perks=957782887,2846385770
@@ -484,6 +733,8 @@ dimwishlist:item=3356526253&perks=4071163871,3425386926
 
 night watch - RH/EP
 dimwishlist:item=3504336176&perks=247725512,3038247973
+
+dimwishlist:item=2916547559&perks=247725512,3038247973
 
 eternal blazon - RH/KC(DB)
 dimwishlist:item=3514096004&perks=247725512,1015611457
@@ -516,11 +767,15 @@ dimwishlist:item=6857689&perks=3436462433,1954620775
 contingency plan - surplus/KC
 dimwishlist:item=577528837&perks=3436462433,1015611457
 
-scathelocke - TV/MKC
+scathelocke - TV/MKC * SUB/KT
 dimwishlist:item=602618796&perks=2946784966,2458213969
+
+dimwishlist:item=3332538050&perks=1820235745,3891536761
 
 spoiler alert - surplus/swash
 dimwishlist:item=2588048270&perks=3436462433,4082225868
+
+dimwishlist:item=4045298482&perks=3436462433,4082225868
 
 legal action II - HU/rampage
 dimwishlist:item=3409645497&perks=1570042021,3425386926
@@ -560,6 +815,8 @@ dimwishlist:item=2233545123,509074078,957782887
 ogma - AM/DB - demo/AJ
 dimwishlist:item=2342054803,1048183818,1683379515
 dimwishlist:item=2342054803,3523296417,11612903
+
+dimwishlist:item=324584912&perks=1048183818,1683379515
 
 krait - subsist/HS - OF/FF
 dimwishlist:item=2852052802,1820235745,124408337
@@ -608,12 +865,16 @@ dimwishlist:item=2566006935&perks=691659142,776531651
 aurvvandil fr6 - recon/CC
 dimwishlist:item=963710795&perks=1523832109,2978966579
 
+dimwishlist:item=3786215462&perks=1523832109,2978966579
+
 CORONACH-22 -FF/incan
 dimwishlist:item=355382946&perks=2387244414,365154968
 
-BATTLE SCAR - KA/KT-HS
+BATTLE SCAR - KA/KT-HS * SUB/KT
 dimwishlist:item=2099894368&perks=3619207468,3891536761
 dimwishlist:item=2099894368&perks=3619207468,460017080
+
+dimwishlist:item=1525080480&perks=1820235745,3891536761
 
 SENUNA SI6 - UP/HS
 dimwishlist:item=5159537&perks=1645158859,460017080
@@ -625,8 +886,11 @@ HARSH LANGUAGE - EA/DR-RB
 dimwishlist:item=1606497639&perks=968510818,2048641572
 dimwishlist:item=1606497639&perks=968510818,776531651
 
-NASREDDIN - RS/WB
+NASREDDIN - RS/WB * SH/EE + WS/RS
 dimwishlist:item=1456017061&perks=1749209109,3913600130
+
+dimwishlist:item=1979417829&perks=4132187021,2077819806
+dimwishlist:item=1979417829&perks=3592538738,3218042543
 
 MARSILION-C - spike/EA/vorpal
 dimwishlist:item=867154247&perks=3301904089,968510818,1546637391
@@ -634,8 +898,12 @@ dimwishlist:item=867154247&perks=3301904089,968510818,1546637391
 GLISSANDO-47 - KA/box
 dimwishlist:item=222606050&perks=3619207468,2551157718
 
-LAST FORAY - LFG/box
+dimwishlist:item=3156551028&perks=3619207468,2551157718
+
+LAST FORAY - LFG/box * DISCORD/INCAN
 dimwishlist:item=1106635211&perks=1556840489,2551157718
+
+dimwishlist:item=4118936670&perks=3978468247,4293542123
 
 COMBINED ACTION - zen/KC
 dimwishlist:item=1331824604&perks=2387244414,1015611457
@@ -649,6 +917,8 @@ dimwishlist:item=358788212&perks=1195158366,460017080
 NOX PERENNIAL V - EA/CB
 dimwishlist:item=2767393525&perks=968510818,2594592626
 
+dimwishlist:item=2366022261&perks=968510818,2594592626
+
 GEODETIC HSM - RB/DR
 dimwishlist:item=3637669759&perks=776531651,2048641572
 
@@ -656,14 +926,20 @@ HELIOCENTRIC QSC - HC/KC (INCAN)
 dimwishlist:item=3998080529&perks=3017780555,1015611457
 dimwishlist:item=3998080529&perks=3017780555,4293542123
 
+dimwishlist:item=3998080529&perks=3017780555,4293542123
+dimwishlist:item=3998080529&perks=3017780555,1015611457
+
 CRUX TERMINATION IV - recon/bi
 dimwishlist:item=1719687748&perks=1523832109,1439600632
 
 ROS ARAGO IV - RR/onsl
 dimwishlist:item=3583275737&perks=3418782618,95528736
 
-PARABELLUM - HC/frenzy
+PARABELLUM - HC/frenzy * RWR-HC/INCAN
 dimwishlist:item=3926811686&perks=3017780555,4104185692
+
+dimwishlist:item=3769072067&perks=3418782618,4293542123
+dimwishlist:item=3769072067&perks=3017780555,4293542123
 
 MARCATO-45 - demo/hatch
 dimwishlist:item=4233375372&perks=3523296417,831391274
@@ -674,12 +950,17 @@ dimwishlist:item=423343404&perks=1195158366,4071163871
 TRUTHTELLER - SFA/RB
 dimwishlist:item=447296102&perks=409831596,1583705720,776531651
 
-DED GRAMARYE IV - TD/surr - EC/volt
+DED GRAMARYE IV - TD/surr - EC/volt * DIS/CR
 dimwishlist:item=499245245&perks=4071163871,3708227201
 dimwishlist:item=499245245&perks=684456054,2173046394
 
+dimwishlist:item=870893339&perks=684456054,2173046394
+dimwishlist:item=870893339&perks=3978468247,2396489472
+
 MAAHES HC4 - RB/DR
 dimwishlist:item=1246793994&perks=776531651,2048641572
+
+dimwishlist:item=734476286&perks=776531651,2048641572
 
 THE DOMINO - s2l/incan
 dimwishlist:item=2800870005&perks=3700496672,4293542123
@@ -696,6 +977,8 @@ dimwishlist:item=2848549302&perks=691659142,3592538738
 
 Live Fire - RS/HS
 dimwishlist:item=3612142623&perks=1955165503,124408337
+
+dimwishlist:item=3156551031&perks=1955165503,124408337
 
 Legato-11 - 3TAP/FF - decon/vorpal
 dimwishlist:item=3753063346&perks=3400784728,2896038713
@@ -715,20 +998,26 @@ dimwishlist:item=751880654&perks=2779035018,3425386926
 Cruoris FR4 - ec/rs
 dimwishlist:item=891996636&perks=684456054,3218042543
 
-Admetus-D rb/wg,demo
+Admetus-D rb/wg,demo * RH/INCAN
 dimwishlist:item=3776430252&perks=776531651,1134488199
 dimwishlist:item=3776430252&perks=776531651,1464081238
 
+dimwishlist:item=3156551029&perks=247725512,4293542123
 
 [RITUAL ACTIVITIES]
 
-xenoclast - slideshot/KW - surplus/1-2P
+xenoclast - slideshot/KW - surplus-GR/1-2P
 dimwishlist:item=2891672170&perks=3161816588,2450788523
 dimwishlist:item=2891672170&perks=3436462433,2679249093
 
-third axiom - subsist/rampage - surplus/DB
+dimwishlist:item=963732594&perks=1631667848,2679249093
+
+third axiom - subsist/rampage - surplus/DB * ZM/HS
 dimwishlist:item=4156253727&perks=1820235745,3425386926
 dimwishlist:item=4156253727&perks=3436462433,1683379515
+
+dimwishlist:item=3744058588&perks=1820235745,3425386926
+dimwishlist:item=3744058588&perks=2387244414,460017080
 
 royal entry - imp amp/LI
 dimwishlist:item=2448907086&perks=951095735,3927722942
@@ -737,17 +1026,24 @@ empty vessel - blinding/ALH/DB(vorpal)
 dimwishlist:item=4255586669&perks=3032599245,3300816228,1683379515
 dimwishlist:item=4255586669&perks=3032599245,3300816228,1546637391
 
+dimwishlist:item=4255586669&perks=3032599245,3300816228,1683379515
+dimwishlist:item=4255586669&perks=3301904089,3300816228,1546637391
+
 stars in shadow - surplus/KC
 dimwishlist:item=2050789284&perks=3436462433,1015611457
 
 frozen orbit - app mag/3tap/vorpal
 dimwishlist:item=3473290087&perks=1087426260,3400784728,1546637391
 
-the keening - RH/vorpal
+the keening - RH/vorpal * VOLT/JF
 dimwishlist:item=409551876&perks=247725512,1546637391
+
+dimwishlist:item=3902351469&perks=2173046394,3966416502
 
 survivor's epitaph - RH/KC
 dimwishlist:item=310708513&perks=2946784966,1015611457
+
+dimwishlist:item=2152350211&perks=247725512,1015611457
 
 crowd pleaser - spikes/field prep/CR
 dimwishlist:item=3565520715&perks=3301904089,2869569095,2396489472
@@ -761,26 +1057,38 @@ dimwishlist:item=1046651176&perks=2846385770,3038247973
 dimwishlist:item=1046651176&perks=1820235745,3425386926
 dimwishlist:item=1046651176&perks=247725512,1683379515
 
+dimwishlist:item=2953199259&perks=2846385770,3038247973
+dimwishlist:item=2953199259&perks=1820235745,3425386926
+dimwishlist:item=2953199259&perks=247725512,1683379515
+
 borrowed time - HU/rampage
 dimwishlist:item=875848769&perks=1570042021,3425386926
 
-punching out - surplus/swash
+punching out - surplus/swash * HC/INCAN + SUB/KC
 dimwishlist:item=378498222&perks=3436462433,4082225868
+
+dimwishlist:item=1469372193&perks=3017780555,4293542123
+dimwishlist:item=1469372193&perks=1820235745,1015611457
 
 servant leader - RH/KC
 dimwishlist:item=1107446438&perks=247725512,1015611457
 
-sorrow's verse - HU/rampage
+sorrow's verse - HU/rampage * FF/VS
 dimwishlist:item=2496875173&perks=1570042021,3425386926
+dimwishlist:item=775830132&perks=2779035018,2173046394
 
 fortissimo-11 4TTC/vorpal
 dimwishlist:item=2821430069,1354429876,1546637391
+
+dimwishlist:item=963732595&perks=1354429876,1546637391
 
 Crisis Invertedn - RH/KC
 dimwishlist:item=2888266564,247725512,1015611457
 
 Herod-C subsist/headstone
 dimwishlist:item=1788603939,1820235745,124408337
+
+dimwishlist:item=2065366342&perks=1820235745,1890422124
 
 DEAD WEIGHT - sub/swash
 dimwishlist:item=3738678140&perks=,1820235745,4082225868
@@ -796,14 +1104,20 @@ dimwishlist:item=2591241074&perks=,3700496672,2848615171
 PURE POETRY - 4TTC/FF
 dimwishlist:item=2671639706&perks=,1354429876,2896038713
 
-OUT OF BOUNDS - SUBSIST/GT
+OUT OF BOUNDS - SUBSIST/GT * LC/JF
 dimwishlist:item=2988121501&perks=,1820235745,2610012052
 
-YESTERYEAR - OUTLAW/DESP
+dimwishlist:item=2579239008&perks=1119449540,3966416502
+
+YESTERYEAR - OUTLAW/DESP * TV/DESP
 dimwishlist:item=1141927949&perks=,1168162263,3047969693
+
+dimwishlist:item=4028000428&perks=2946784966,3047969693
 
 prolonged engagement - subsist/HS
 dimwishlist:item=2349907931&perks=1820235745,124408337
+
+dimwishlist:item=1066772626&perks=1820235745,124408337
 
 blowout - tracking/LI
 dimwishlist:item=1903182562&perks=3977735242,3927722942
@@ -811,20 +1125,29 @@ dimwishlist:item=1903182562&perks=3977735242,3927722942
 albruna-d - CC/FL
 dimwishlist:item=676270382&perks=2284787283,1771339417
 
-NAMELESS MIDNIGHT - 3tap/KT
+NAMELESS MIDNIGHT - 3tap/KT * STL/EP + RH/KT
 dimwishlist:item=996109059&perks=3400784728,3891536761
+
+dimwishlist:item=1957301533&perks=3700496672,3038247973
+dimwishlist:item=1957301533&perks=247725512,3891536761
 
 AUTUMN WIND - HU/HS
 dimwishlist:item=3110377595&perks=1570042021,460017080
 
-TRUST -surplus/incan
+TRUST -surplus/incan * FF/INCAN + RH/MH
 dimwishlist:item=2850664015&perks=3436462433,4293542123
 
-RANDY'S THROWING KNIFE - RH/KC
+dimwishlist:item=810474118&perks=3824105627,4293542123
+dimwishlist:item=810474118&perks=247725512,2720533289
+
+RANDY'S THROWING KNIFE - RH/KC * KA/BB + RH/KT
 dimwishlist:item=3292795429&perks=247725512,1015611457
 
-POSITIVE OUTLOOK - zen/GT
+POSITIVE OUTLOOK - zen/GT * RB/DR
 dimwishlist:item=491078457&perks=2387244414,2610012052
+
+dimwishlist:item=3625635456&perks=2387244414,2610012052
+dimwishlist:item=3625635456&perks=776531651,2048641572
 
 LASER PAINTER - clown/vorpal (hatch)
 dimwishlist:item=3221722018&perks=2284787283,1546637391
@@ -834,8 +1157,11 @@ LUNA REGOLITH III - CC/FL - HC/INCAN
 dimwishlist:item=1948035256&perks=2284787283,1771339417
 dimwishlist:item=1948035256&perks=3017780555,4293542123
 
-UNENDING TEMPEST - KW/TTT 
+UNENDING TEMPEST - KW/TTT * AO/CR-CC
 dimwishlist:item=2510526114&perks=2450788523,1890422124
+
+dimwishlist:item=2579239009&perks=243981275,3640170453
+dimwishlist:item=2579239009&perks=243981275,2922950962
 
 QUA XAPHAN V - CC/CP (DR)
 dimwishlist:item=1975125963&perks=2284787283,3751912585
@@ -844,15 +1170,22 @@ dimwishlist:item=1975125963&perks=2284787283,2048641572
 DOUBLE-EDGED ANSWER - RB/DR
 dimwishlist:item=105164264&perks=776531651,2048641572
 
-RETROFUTURIST - pug/TB
+RETROFUTURIST - pug/TB * LC/DR
 dimwishlist:item=1612781792&perks=691659142,2360754333
+
+dimwishlist:item=3688176697&perks=1119449540,2048641572
 
 BREAKNECK - S2L/KT
 dimwishlist:item=2026755633&perks=3700496672,3891536761
 
-Joxer's Longsword - rb/dr - lw/hs
+dimwishlist:item=2065366343&perks=3700496672,3891536761
+
+Joxer's Longsword - rb/dr - lw/hs * ZM/HS
 dimwishlist:item=157601190&perks=776531651,2048641572
 dimwishlist:item=157601190&perks=2579169598,460017080
+
+dimwishlist:item=2150012406&perks=776531651,2048641572
+dimwishlist:item=2150012406&perks=2387244414,460017080
 
 Backfang - ia/jf
 dimwishlist:item=267672635&perks=951095735,3966416502
@@ -866,9 +1199,14 @@ dimwishlist:item=2039776723&perks=3987942396,3078487919
 Anonymous Autumn - ec/vs
 dimwishlist:item=1051949956&perks=684456054,2173046394
 
-Bygones - s2l/kt
+dimwishlist:item=1644501332&perks=684456054,2173046394
+
+Bygones - s2l-AO/kt * ZM/HS
 dimwishlist:item=2199554524&perks=3700496672,3891536761
 
+dimwishlist:item=767170345&perks=3700496672,3891536761
+dimwishlist:item=767170345&perks=243981275,3891536761
+dimwishlist:item=767170345&perks=2387244414,460017080
 
 [comp]
 
@@ -884,10 +1222,9 @@ dimwishlist:item=2313726158&perks=3619207468,460017080
 dimwishlist:item=2313726158&perks=247725512,2387244414
 
 
-
 [PROPHECY]
 
-prosecutor - sub/onsl - ec/volt - ka/tl
+prosecutor - sub/onsl - ec/volt - ka/tl * TC/RS
 dimwishlist:item=749483159&perks=1820235745,95528736
 dimwishlist:item=749483159&perks=684456054,2173046394
 dimwishlist:item=880829467&perks=1820235745,95528736
@@ -901,18 +1238,28 @@ dimwishlist:item=880829467&perks=3619207468,365154968
 dimwishlist:item=2129814338&perks=3619207468,365154968
 dimwishlist:item=4025177550&perks=3619207468,365154968
 
-judgment - demo/TP - hs/tp
+dimwishlist:item=1091550016&perks=1820235745,95528736
+dimwishlist:item=1091550016&perks=684456054,2173046394
+dimwishlist:item=1091550016&perks=1115162408,3218042543
+
+judgment - demo/TP - hs/tp * HS-CC/RS + KA/PI
 dimwishlist:item=1476654960&perks=3523296417,1954620775
 dimwishlist:item=1773934241&perks=124408337,1954620775
 dimwishlist:item=1987644603&perks=124408337,1954620775
 dimwishlist:item=2226572694&perks=124408337,1954620775
 dimwishlist:item=3329218848&perks=124408337,1954620775
 
+dimwishlist:item=1567585973&perks=124408337,1955165503
+dimwishlist:item=1567585973&perks=2922950962,1955165503
+dimwishlist:item=1567585973&perks=3619207468,555281244
+
 a swift verdict - TV/KC
 dimwishlist:item=1626503676&perks=2946784966,1015611457
 
-darkest before - subsist/rampage
+darkest before - subsist/rampage * KA/HS
 dimwishlist:item=2481758391&perks=1820235745,3425386926
+
+dimwishlist:item=2831259642&perks=3619207468,460017080
 
 a sudden death - graverobber/1-2P - 1/2p/trench
 dimwishlist:item=2855157553&perks=1631667848,2679249093
@@ -935,21 +1282,40 @@ dimwishlist:item=3681280908&perks=3619207468,460017080
 dimwishlist:item=3733988413&perks=3824105627,831391274
 dimwishlist:item=3733988413&perks=3619207468,460017080
 
+dimwishlist:item=2831259643&perks=3824105627,831391274
+dimwishlist:item=2831259643&perks=3619207468,460017080
+
+Adjudicator - SUB/OS + AO/KT + DSR/TL
+dimwishlist:item=140914741&perks=1820235745,95528736
+dimwishlist:item=140914741&perks=243981275,3891536761
+dimwishlist:item=140914741&perks=1359896290,365154968
+
 [DUALITY]
 
-lingering dread - spike/AA/CC
+lingering dread - spike/AA/CC * DIS/CC
 dimwishlist:item=2026087437&perks=,3301904089,2010801679,2978966579
 
-new purpose - TV/desp
+dimwishlist:item=1745368385&perks=3978468247,2978966579
+
+new purpose - TV/desp * HS/RS-MEGA + RH/DESP
 dimwishlist:item=1780464822&perks=,2946784966,3047969693
 
-unforgiven - demo/GT (RB)
+dimwishlist:item=1400385226&perks=124408337,1955165503
+dimwishlist:item=1400385226&perks=124408337,657025441
+dimwishlist:item=1400385226&perks=247725512,3047969693
+
+unforgiven - demo/GT (RB) * DR-AO/CR
 dimwishlist:item=3000847393&perks=,3523296417,2610012052
 dimwishlist:item=3000847393&perks=,3523296417,776531651
 
-stormchaser - ALH(RH)/FL
+dimwishlist:item=234411205&perks=2048641572,3640170453
+dimwishlist:item=234411205&perks=243981275,3640170453
+
+stormchaser - ALH(RH)/FL * SM/AC
 dimwishlist:item=3652506829&perks=,3300816228,1771339417
 dimwishlist:item=3652506829&perks=,247725512,1771339417
+
+dimwishlist:item=2862666249&perks=1511100135,3764420437
 
 epicurean - snap/cornered
 dimwishlist:item=2263839058&perks=,957782887,1799762209
@@ -962,17 +1328,19 @@ dimwishlist:item=2194955522&perks=,2779035018,4293542123
 seraph carbine - recon/TL
 dimwishlist:item=4070357005&perks=1523832109,365154968
 
-long arm - RH/EP - sub/rs
+long arm - RH/EP - sub/rs * SM/CR
 dimwishlist:item=8293111&perks=247725512,3038247973
 dimwishlist:item=4249949938&perks=1820235745,3218042543
 dimwishlist:item=3692140710&perks=1820235745,3218042543
 dimwishlist:item=4239378215&perks=1820235745,3218042543
 dimwishlist:item=4249949938&perks=1820235745,3218042543
 
+dimwishlist:item=3418719964&perks=1511100135,3640170453
+
 seraph revolver - recon/vorpal
 dimwishlist:item=1555959830&perks=1523832109,1546637391
 
-liminal vigil- TTT/KC - HS/desp - hs/rs 
+liminal vigil- TTT/KC - HS/desp - hs/rs * AO/FRENZY + ZM/HS + HS/RS
 dimwishlist:item=3138208275&perks=1890422124,1015611457
 dimwishlist:item=3138208275&perks=124408337,3047969693
 dimwishlist:item=1460079227&perks=124408337,1955165503
@@ -984,7 +1352,11 @@ dimwishlist:item=2575844666&perks=1890422124,1015611457
 dimwishlist:item=3421639790&perks=124408337,1955165503
 dimwishlist:item=3421639790&perks=1890422124,1015611457
 
-wilderflight - RB/frenzy - dr/rb - ea/bs
+dimwishlist:item=355893876&perks=243981275,4104185692
+dimwishlist:item=355893876&perks=2387244414,460017080
+dimwishlist:item=355893876&perks=124408337,1955165503
+
+wilderflight - RB/frenzy - dr/rb - ea/bs * ALH/AC
 dimwishlist:item=2306182339&perks=776531651,4104185692
 dimwishlist:item=559523765&perks=776531651,2048641572
 dimwishlist:item=559523765&perks=3987942396,3078487919
@@ -995,37 +1367,49 @@ dimwishlist:item=2477408004&perks=3987942396,3078487919
 dimwishlist:item=2982006965&perks=776531651,2048641572
 dimwishlist:item=2982006965&perks=3987942396,3078487919
 
-terminus horizon - demo/volt - recon/kt
+dimwishlist:item=408862798&perks=3300816228,3764420437
+
+terminus horizon - demo/volt - recon/kt * TC/RS + SM/JF
 dimwishlist:item=487205709&perks=3523296417,2173046394
 dimwishlist:item=2210806903&perks=1523832109,557221067
 dimwishlist:item=2730671571&perks=1523832109,557221067
 dimwishlist:item=3984556130&perks=1523832109,557221067
 dimwishlist:item=4267192886&perks=1523832109,557221067
 
+dimwishlist:item=3814261872&perks=1115162408,3218042543
+dimwishlist:item=3814261872&perks=1511100135,3966416502
+
 [GHOSTS]
 
-COLD COMFORT - EA/BAS
+COLD COMFORT - EA/BAS-AC
 dimwishlist:item=839786290&perks=968510818,3078487919
 dimwishlist:item=291447487&perks=3987942396,3078487919
 dimwishlist:item=1817605554&perks=3987942396,3078487919
 dimwishlist:item=2126543269&perks=3987942396,3078487919
 dimwishlist:item=2760833884&perks=3987942396,3078487919
 
-NEW PACIFIC EPITAPH - DEMO/REDIRECT - rs/cr
+dimwishlist:item=2287287549&perks=968510818,3764420437
+
+NEW PACIFIC EPITAPH - DEMO/REDIRECT - rs/cr * CR/RT
 dimwishlist:item=1125217994&perks=3523296417,3201496230
 dimwishlist:item=233402416&perks=1955165503,2396489472
 dimwishlist:item=492673102&perks=1955165503,2396489472
 dimwishlist:item=2059741649&perks=1955165503,2396489472
 dimwishlist:item=3185151619&perks=1955165503,2396489472
 
-GREASY LUCK - DB/C2M - mm/c2m
+dimwishlist:item=2988180391&perks=2396489472,113508675
+
+GREASY LUCK - DB/C2M - mm/c2m * CR-MM/CTM
 dimwishlist:item=1757202961&perks=1683379515,1782407750
 dimwishlist:item=1050582210&perks=3773585912,1782407750
 dimwishlist:item=1685406703&perks=3773585912,1782407750
 dimwishlist:item=2934305134&perks=3773585912,1782407750
 dimwishlist:item=3210739171&perks=3773585912,1782407750
 
-NO SURVIVORS SURP/TL(INCAN) - hc/incan surp/tl
+dimwishlist:item=4274165888&perks=3640170453,1782407750
+dimwishlist:item=4274165888&perks=3773585912,1782407750
+
+NO SURVIVORS SURP/TL(INCAN) - hc/incan surp-RWR/tl 
 dimwishlist:item=3262192268&perks=3436462433,365154968
 dimwishlist:item=3262192268&perks=3436462433,4293542123
 dimwishlist:item=189194532&perks=3017780555,4293542123
@@ -1037,23 +1421,37 @@ dimwishlist:item=4193602194&perks=3436462433,365154968
 dimwishlist:item=4228149269&perks=3017780555,4293542123
 dimwishlist:item=4228149269&perks=3436462433,365154968
 
+dimwishlist:item=3625452995&perks=3017780555,4293542123
+dimwishlist:item=3625452995&perks=3418782618,365154968
+
 [WARLORDS RUIN]
 
-VENGEFUL WHISPER - SLICE/HATCH - AT/PI
+VENGEFUL WHISPER - SLICE/HATCH - AT/PI * TEAR/MEGA
 dimwishlist:item=839344841&perks=923806249,831391274
 dimwishlist:item=839344841&perks=201365942,555281244
 
-NAEEM'S LANCE - RECON/DECON (PI)
+dimwishlist:item=1054567917&perks=923806249,831391274
+dimwishlist:item=1054567917&perks=960997401,657025441
+
+NAEEM'S LANCE - RECON/DECON (PI) * DECON/EH + RWR/PI
 dimwishlist:item=2806569825&perks=1523832109,3993379141
 dimwishlist:item=2806569825&perks=1523832109,555281244
 
-INDEBTED KINDNESS - IA(LFG)/VOLT(SURR)
+dimwishlist:item=4119503981&perks=3993379141,1089671869
+dimwishlist:item=4119503981&perks=3993379141,1089671869
+
+INDEBTED KINDNESS - IA(LFG)/VOLT(SURR) * TC/RS DECON/VOLT
 dimwishlist:item=3381450498&perks=951095735,2173046394
 dimwishlist:item=3381450498&perks=1556840489,2173046394
 dimwishlist:item=3381450498&perks=951095735,3708227201
 
+dimwishlist:item=2554513694&perks=1115162408,3218042543
+dimwishlist:item=2554513694&perks=3993379141,2173046394
+
 DRAGONCULT SICKLE - SLICE/CR
 dimwishlist:item=3668817296&perks=923806249,2396489472
+
+dimwishlist:item=2525261820&perks=923806249,2396489472
 
 [WARMIND]
 
@@ -1070,46 +1468,83 @@ IKELOS_HC_V1.0.2 - 3tap/vorpal(DB)
 dimwishlist:item=1200824700&perks=3400784728,1546637391
 dimwishlist:item=1200824700&perks=3400784728,1683379515
 
-SEVENTH SERAPH SI-2 - demo/vorpal
+SEVENTH SERAPH SI-2 - demo/vorpal * DB/FRENZY + DS/CA + DR/RB
 dimwishlist:item=3937866388&perks=3523296417,1546637391
 
-SEVENTH SERAPH OFFICER REVOLVER - 4TTC/timed payload
+dimwishlist:item=453798564&perks=1683379515,4104185692
+dimwishlist:item=453798564&perks=3182497402,3324494224
+dimwishlist:item=453798564&perks=2048641572,776531651
+
+SEVENTH SERAPH OFFICER REVOLVER - 4TTC/timed payload * STL/EP + BB/FRENZY
 dimwishlist:item=3037520408&perks=1354429876,1954620775
 
-SEVENTH SERAPH SAW - ALH/vorpal
+dimwishlist:item=3490736392&perks=3700496672,3038247973
+dimwishlist:item=3490736392&perks=2289534249,4104185692
+
+SEVENTH SERAPH SAW - ALH/vorpal * TC/RS + SM/JF-KT
 dimwishlist:item=2582755344&perks=3300816228,1546637391
 
-SEVENTH SERAPH CQC-12 - slide/vorpal
+dimwishlist:item=2584201248&perks=1115162408,3218042543
+dimwishlist:item=2584201248&perks=1511100135,3966416502
+dimwishlist:item=2584201248&perks=1511100135,557221067
+
+SEVENTH SERAPH CQC-12 - slide/vorpal * DB/CT + DIS/INCAN
 dimwishlist:item=1821724780&perks=3161816588,1546637391
 
-SEVENTH SERAPH CARBINE - 4TTC/vorpal
+dimwishlist:item=2308010345&perks=1683379515,1194056669
+
+
+SEVENTH SERAPH CARBINE - 4TTC/vorpal-KT
 dimwishlist:item=1561006927&perks=1354429876,1546637391
+
+dimwishlist:item=2560370239&perks=1354429876,3891536761
+
+Seventh Seraph VY-7 - SM/JF + TC/RS
+dimwishlist:item=1719169808&perks=1511100135,3966416502
+dimwishlist:item=1719169808&perks=1115162408,3218042543
 
 [EUROPA]
 
-arctic haze - subsist/thresh
+arctic haze - subsist/thresh * INCAN/FRENZY
 dimwishlist:item=20935540&perks=1820235745,2726471870
 
-subzero salvo - surplus/CR
+dimwishlist:item=2187337757&perks=4293542123,4104185692
+
+subzero salvo - surplus/CR * SM/BIPOD
 dimwishlist:item=42351395&perks=3436462433,2396489472
 
-high albedo - surplus/wellspring
+dimwishlist:item=978122008&perks=1511100135,1439600632
+
+high albedo - surplus/wellspring * BB/KT
 dimwishlist:item=1197486957&perks=3436462433,3592538738
 
-biting winds - RH/explosive
+dimwishlist:item=2662459958&perks=2289534249,3891536761
+
+biting winds - RH/explosive * BB/KT
 dimwishlist:item=1621657423&perks=247725512,3365897133
 
-thermal erosion - ZM/demo
+dimwishlist:item=2662459958&perks=2289534249,3891536761
+
+thermal erosion - ZM/demo * RWR/MEGA
 dimwishlist:item=1766088024&perks=2387244414,3523296417
 
-hailing confusion - surplus/demo
+dimwishlist:item=642545454&perks=3418782618,657025441
+
+hailing confusion - surplus/demo * HS/MEGA + SUB/CC
 dimwishlist:item=2870169846&perks=3436462433,3523296417
 
-coriolis force - KW/14A
+dimwishlist:item=4236134153&perks=124408337,657025441
+dimwishlist:item=4236134153&perks=1820235745,2922950962
+
+coriolis force - KW/14A * DS/DR
 dimwishlist:item=3512349612&perks=2450788523,4049631843
 
-bonechiller - ALH/demo
+dimwishlist:item=856316142&perks=3182497402,2048641572
+
+bonechiller - ALH/demo * RB/DEMOR
 dimwishlist:item=4037745684&perks=3300816228,3523296417
+
+dimwishlist:item=1529367715&perks=776531651,1464081238
 
 [DEEP STONE CRYPT]
 
@@ -1153,11 +1588,13 @@ dimwishlist:item=2776503072&perks=4267945040,2848615171
 extraordinary rendition - surplus rampage
 dimwishlist:item=1097616550&perks=3436462433,3425386926
 
-far future - surplus/frenzy
+far future - surplus/frenzy * 
 dimwishlist:item=1097616550&perks=3436462433,3425386926
 
-brass attacks - surplus/rampage
+brass attacks - surplus/rampage * RB/DR
 dimwishlist:item=2121785039&perks=3436462433,3425386926
+
+dimwishlist:item=1291040554&perks=776531651,2048641572
 
 code duello - imp amp/LI
 dimwishlist:item=2496242052&perks=951095735,3927722942
@@ -1178,12 +1615,18 @@ farewell - HU/MKC - subsist/frenzy
 dimwishlist:item=541188001&perks=1570042021,2458213969
 dimwishlist:item=541188001&perks=1820235745,4104185692
 
-chroma rush - HU/KC - subsist/rampage
+chroma rush - HU/KC - subsist/rampage * SUB-BB/KT
 dimwishlist:item=1119734784&perks=1570042021,1015611457
 dimwishlist:item=1119734784&perks=1820235745,3425386926
 
-gridskipper - HU/frenzy
+dimwishlist:item=771811871&perks=1820235745,3891536761
+dimwishlist:item=771811871&perks=2289534249,3891536761
+
+gridskipper - HU/frenzy * RB/DR + ZM/HS
 dimwishlist:item=1621558458&perks=1570042021,4104185692
+
+dimwishlist:item=3176697589&perks=776531651,2048641572
+dimwishlist:item=3176697589&perks=2387244414,460017080
 
 shattered cipher - ALH/rampage
 dimwishlist:item=2434225986&perks=3300816228,3425386926
@@ -1379,9 +1822,12 @@ dimwishlist:item=3890055324&perks=1168162263,3038247973
 JUST IN CASE - WS/COLLECT
 dimwishlist:item=1139727256&perks=3592538738,3324494224
 
-SPARE RATIONS - RH/KC - SLIDE/OS
+SPARE RATIONS - RH/KC - SLIDE/OS * FF/OFA
 dimwishlist:item=3236112986&perks=247725512,1015611457
 dimwishlist:item=3236112986&perks=3161816588,47981717
+
+dimwishlist:item=810474119&perks=247725512,1015611457
+dimwishlist:item=810474119&perks=3824105627,4049631843
 
 SOLE SURVIVOR - OL/VOLT
 dimwishlist:item=1150492185&perks=1168162263,2173046394
@@ -1389,12 +1835,18 @@ dimwishlist:item=1150492185&perks=1168162263,2173046394
 OUTLAST - ENCORE/KC
 dimwishlist:item=1678205741&perks=1195158366,1015611457
 
-BUG-OUT BAG - SUB/INCAN - PM/FF
+BUG-OUT BAG - SUB/INCAN - PM/FF * AO-RB/DR
 dimwishlist:item=2832639510&perks=1820235745,4293542123
 dimwishlist:item=2832639510&perks=1428297954,2451262963
 
-LAST MAN STANDING - SUB/SWASH
+dimwishlist:item=3327901954&perks=243981275,2048641572
+dimwishlist:item=3327901954&perks=776531651,2048641572
+
+LAST MAN STANDING - SUB/SWASH * GR/OTP + SUB/TB
 dimwishlist:item=4287947559&perks=1820235745,4082225868
+
+dimwishlist:item=4276696963&perks=1631667848,2679249093
+dimwishlist:item=4276696963&perks=1820235745,2360754333
 
 [WITCH]
 
@@ -1425,10 +1877,14 @@ dimwishlist:item=781498181&perks=776531651,2048641572
 DEADPAN DELIVERY - OF/12P
 dimwishlist:item=1296429091&perks=3643424744,2679249093
 
-NIGHTSHADE - KA/HS(KC) - OL/HATCH
+NIGHTSHADE - KA/HS(KC) - OL/HATCH * SLICE/HATCH
 dimwishlist:item=1974641289&perks=3619207468,460017080
 dimwishlist:item=1974641289&perks=3619207468,1015611457
 dimwishlist:item=1974641289&perks=1168162263,831391274
+
+dimwishlist:item=2150012406&perks=2387244414,460017080
+dimwishlist:item=34731066&perks=3619207468,1015611457
+dimwishlist:item=34731066&perks=923806249,831391274
 
 THE SHOWRUNNER - OF/KT - DSR/FF
 dimwishlist:item=1999754402&perks=3643424744,3891536761
@@ -1499,13 +1955,19 @@ dimwishlist:item=3794274730&perks=1749209109,3650930298
 Faith-Keeper - FP/BIPOD
 dimwishlist:item=4195186942&perks=2869569095,1439600632
 
-Perfect Paradox - FP/TRENCH(OTP)
+Perfect Paradox - FP/TRENCH(OTP) * PUG/TB-OTP + BB/AS
 dimwishlist:item=1298672084&perks=2869569095,2360754333
 dimwishlist:item=1298672084&perks=2869569095,2679249093
 
-Patron of Lost Causes - RH/EP - 3TAP/PI
+dimwishlist:item=4108648762&perks=691659142,2360754333
+dimwishlist:item=4108648762&perks=691659142,2679249093
+dimwishlist:item=4108648762&perks=2289534249,1226351311
+
+Patron of Lost Causes - RH/EP - 3TAP/PI * RH/KT
 dimwishlist:item=2249996761&perks=247725512,3038247973
 dimwishlist:item=2249996761&perks=3400784728,555281244
+
+dimwishlist:item=3156551030&perks=247725512,3891536761
 
 Breachlight - PUG/SWASH - TD/VORPAL
 dimwishlist:item=2328923181&perks=691659142,4082225868
@@ -1522,9 +1984,13 @@ dimwishlist:item=2584830733&perks=3300816228,4293542123
 
 [REVENANT]
 
-Insurmountable - RB/DR - DEMO/DM
+Insurmountable - RB-AO/DR - DEMO/DM
 dimwishlist:item=414045521&perks=776531651,2048641572
 dimwishlist:item=414045521&perks=3523296417,2109543898
+
+dimwishlist:item=2596736862&perks=776531651,2048641572
+dimwishlist:item=2596736862&perks=243981275,2048641572
+dimwishlist:item=2596736862&perks=3523296417,2109543898
 
 Noxious Vetiver - LC/JF
 dimwishlist:item=825495813&perks=1119449540,3966416502
@@ -1532,6 +1998,9 @@ dimwishlist:item=825495813&perks=1119449540,3966416502
 Liturgy - RS/CC EA/LFG
 dimwishlist:item=2599338624&perks=1955165503,2978966579
 dimwishlist:item=2599338624&perks=3987942396,1556840489
+
+dimwishlist:item=3377522331&perks=1955165503,2978966579
+dimwishlist:item=3377522331&perks=3987942396,1556840489
 
 Bitter/Sweet - EA/BS
 dimwishlist:item=2599338625&perks=3987942396,3078487919
@@ -1546,6 +2015,8 @@ dimwishlist:item=2913577176&perks=3161816588,1194056669
 
 Red Tape - HS/RS
 dimwishlist:item=3423493037&perks=1955165503,124408337
+
+dimwishlist:item=736362511&perks=1955165503,124408337
 
 Sovereignty - ND/WG
 dimwishlist:item=3818198556&perks=2866798147,1134488199
@@ -1605,45 +2076,74 @@ dimwishlist:item=1390080550&perks=3828510309,124408337
 
 [VESPERS HOST]
 
-VS Gravitic Arrest - RB/WG
+VS Gravitic Arrest - RB/WG + UP/CT * RB/DR
 dimwishlist:item=93061497&perks=776531651,1134488199
 dimwishlist:item=93061497&perks=1645158859,1194056669
 
-VS Chill Inhibitor - EA-CP/BS
+dimwishlist:item=3102162710&perks=1645158859,1194056669
+dimwishlist:item=3102162710&perks=1645158859,1194056669
+
+VS Chill Inhibitor - EA-CP/BS * CP/EH-AC + EA/BS
 dimwishlist:item=1762785662&perks=3987942396,3078487919
 dimwishlist:item=1762785662&perks=3987942396,3078487919
 
-VS Velocity Baton - DEMO/AO-DR
+dimwishlist:item=2452936817&perks=3751912585,1089671869
+dimwishlist:item=2452936817&perks=3751912585,3764420437
+dimwishlist:item=2452936817&perks=3987942396,3078487919
+
+VS Velocity Baton - DEMO/AO-DR * RB/DR + RECON/AO + EA/CR
 dimwishlist:item=1762785663&perks=3523296417,243981275
 dimwishlist:item=1762785663&perks=3523296417,2048641572
 
-VS Pyroelectric Propellant - EC/JF-OS
+dimwishlist:item=2452936816&perks=776531651,2048641572
+dimwishlist:item=2452936816&perks=776531651,2048641572
+dimwishlist:item=2452936816&perks=3987942396,2396489472
+
+VS Pyroelectric Propellant - EC/JF-OS * AO-EC/JF
 dimwishlist:item=4232480042&perks=684456054,3966416502
 dimwishlist:item=4232480042&perks=684456054,95528736
 
+dimwishlist:item=2460368549&perks=684456054,3966416502
+dimwishlist:item=2460368549&perks=243981275,3966416502
+
 [SUNDERED DOCTRINE]
 
-Unsworn - rwr/db
+Unsworn - rwr/db * RWR/CR
 dimwishlist:item=1303313141&perks=3418782618,4198902903
 
-Unworthy - ka/zm - ff/vs/rs
+dimwishlist:item=3462679024&perks=3418782618,3640170453
+
+Unworthy - ka/zm - ff/vs/rs * RS/TC + EC/VOLT
 dimwishlist:item=2226158470&perks=3619207468,2387244414
 dimwishlist:item=2226158470&perks=3824105627,2173046394
 dimwishlist:item=2226158470&perks=3824105627,3218042543
+
+dimwishlist:item=1700366811&perks=3619207468,2387244414
+dimwishlist:item=1700366811&perks=3218042543,1115162408
+dimwishlist:item=1700366811&perks=684456054,2173046394
 
 Unloved - hatch/tear - df/frenzy
 dimwishlist:item=2485881870&perks=831391274,960997401
 dimwishlist:item=2485881870&perks=2848615171,4104185692
 
-Unvoiced - ea/bs - dr/demo
+dimwishlist:item=388390591&perks=831391274,960997401
+dimwishlist:item=388390591&perks=247725512,4104185692
+
+Unvoiced - ea/bs - dr/demo * RD/VW
 dimwishlist:item=3360937899&perks=3987942396,3078487919
 dimwishlist:item=3360937899&perks=2048641572,1464081238
 
+dimwishlist:item=3360937899&perks=3987942396,3078487919
+dimwishlist:item=3360937899&perks=2048641572,1464081238
+dimwishlist:item=3360937899&perks=3201496230,1546637391
 
 [LAST WISH]
 
-CHATTERING BONE - KC/HS
+CHATTERING BONE - KC/HS * AO/KT + SUB/CR
 dimwishlist:item=501329015&perks=1015611457,460017080
+
+dimwishlist:item=830651379&perks=243981275,3891536761
+dimwishlist:item=830651379&perks=1820235745,3640170453
 
 NATION OF BEASTS - KA/KC
 dimwishlist:item=70083888&perks=3619207468,1015611457
@@ -1666,74 +2166,126 @@ dimwishlist:item=3591141932&perks=2039302152,1754714824
 
 [DREAMING CITY]
 
-waking vigil - S2L/DF - PM/KC
+waking vigil - S2L/DF - PM/KC * KA/KC
 dimwishlist:item=3723679465&perks=3700496672,2848615171
 dimwishlist:item=3723679465&perks=1428297954,1015611457
 
-retold tale - slide/KW - RB/DR
+dimwishlist:item=1727550459&perks=3619207468,1015611457
+
+retold tale - slide/KW-CT - RB/DR
 dimwishlist:item=871900124&perks=3161816588,2450788523
 dimwishlist:item=871900124&perks=776531651,2048641572
 
-tigerspite - sub/KT - FF/KC
+dimwishlist:item=1727550459&perks=3619207468,1015611457
+dimwishlist:item=3442151842&perks=776531651,2048641572
+
+tigerspite - sub/KT - FF/KC * BB/KT + SUB/OS
 dimwishlist:item=2465372924&perks=1820235745,3891536761
 dimwishlist:item=2465372924&perks=2451262963,1015611457
 
-abide the return - relentless/whirlwind - ET/VC
+dimwishlist:item=1709137958&perks=2289534249,3891536761
+dimwishlist:item=1709137958&perks=1820235745,95528736
+
+abide the return - relentless/whirlwind - ET/VC * SH/EE
 dimwishlist:item=250721843&perks=1749209109,3913600130
 dimwishlist:item=250721843&perks=2030760728,4274614370
 
-vouchsafe - RH/EP - RB/DR
+dimwishlist:item=1291270049&perks=1749209109,3913600130
+dimwishlist:item=1291270049&perks=1749209109,3913600130
+
+vouchsafe - RH/EP - RB/DR * STL/EP + RB/DR
 dimwishlist:item=355922321&perks=247725512,3038247973
 dimwishlist:item=355922321&perks=776531651,2048641572
+
+dimwishlist:item=3218302023&perks=3700496672,3038247973
+dimwishlist:item=3218302023&perks=776531651,2048641572
 
 twilight oath - opening shot/snap
 dimwishlist:item=1874424704&perks=47981717,957782887
 
-sleepless - well/demo
+dimwishlist:item=268357178&perks=47981717,957782887
+
+sleepless - well/demo * IA/CR + RECON/BAS
 dimwishlist:item=2140635451&perks=3592538738,3523296417
+
+dimwishlist:item=1291270049&perks=1749209109,3913600130
+dimwishlist:item=1738552769&perks=1523832109,3078487919
 
 [MOON]
 
-premonition - surplus/rampage
+premonition - surplus/rampage * DEMOR/MEGA
 dimwishlist:item=208088207&perks=3436462433,3425386926
 
-one small step - FF/1FA
+dimwishlist:item=1969802090&perks=1464081238,657025441
+
+one small step - FF/1FA * GR/OTP
 dimwishlist:item=1016668089&perks=2779035018,4049631843
 
-tranquility - TV/snap - surplus/FL
+dimwishlist:item=2527058296&perks=1631667848,2679249093
+
+tranquility - TV/snap - surplus/FL * BB/BB
 dimwishlist:item=1645386487&perks=2946784966,957782887
 dimwishlist:item=1645386487&perks=3436462433,1771339417
 
-apostate - surplus/EP
+dimwishlist:item=846241148&perks=2289534249,2551157718
+
+apostate - surplus/EP * SM/PI-JF
 dimwishlist:item=2164448701&perks=3436462433,3038247973
 
-arc logic - sub/rampage
+dimwishlist:item=846241149&perks=1511100135,555281244
+dimwishlist:item=846241149&perks=1511100135,3966416502
+
+arc logic - sub/rampage * SM-RS/JF
 dimwishlist:item=2723909519&perks=1820235745,3425386926
 
-blasphemer - surplus/swash
+dimwishlist:item=38064944&perks=1511100135,3966416502
+dimwishlist:item=38064944&perks=3218042543,3966416502
+
+blasphemer - surplus/swash * BB/AS
 dimwishlist:item=2782847179&perks=3436462433,4082225868
 
-dream breaker - slide/kickstart
+dimwishlist:item=2527058297&perks=2289534249,1226351311
+
+dream breaker - slide/kickstart * INCAN/FRENZY
 dimwishlist:item=2931957300&perks=2039302152,1754714824
 
-heretic - imp amp/LI
+dimwishlist:item=2527058297&perks=2289534249,1226351311
+dimwishlist:item=219610523&perks=4293542123,4104185692
+
+heretic - imp amp/LI * SM/EL
 dimwishlist:item=3067821200&perks=951095735,3927722942
 
-a fine memorial - subsist/1FA
+dimwishlist:item=2136808079&perks=1511100135,3194351027
+
+a fine memorial - subsist/1FA * RS/JF
 dimwishlist:item=3325778512&perks=1820235745,4049631843
 
-love and death - spikes/clown cart/full court
+dimwishlist:item=3211332727&perks=3218042543,3966416502
+
+love and death - spikes/clown cart/full court * RECON/AC + IA/EL
 dimwishlist:item=3690523502&perks=3301904089,2284787283,2888557110
 
-night terror - relentless/whirlwind
+dimwishlist:item=3482299617&perks=1523832109,3764420437
+dimwishlist:item=3482299617&perks=2360347339,3194351027
+
+night terror - relentless/whirlwind * EE/JF
 dimwishlist:item=3870811754&perks=1749209109,3913600130
 
-load lullaby - TV/KC - subsist/EP
+dimwishlist:item=2729232863&perks=2077819806,3966416502
+
+load lullaby - TV/KC - subsist/EP * STL/EP + RS-HS/CC
 dimwishlist:item=3924212056&perks=2946784966,1015611457
 dimwishlist:item=3924212056&perks=1820235745,3038247973
 
-every waking moment - HU/KC
+dimwishlist:item=868076517&perks=3700496672,3038247973
+dimwishlist:item=868076517&perks=1955165503,2922950962
+dimwishlist:item=868076517&perks=124408337,2922950962
+
+every waking moment - HU/KC * DR-SUB/OS
 dimwishlist:item=4277547616&perks=1570042021,1015611457
+
+dimwishlist:item=1487476133&perks=2048641572,95528736
+dimwishlist:item=1487476133&perks=1820235745,95528736
 
 [GARDEN OF SALVATION]
 
@@ -1746,8 +2298,10 @@ dimwishlist:item=2209003210&perks=3275789089,1683379515
 sacred provenance - RH/KC
 dimwishlist:item=2408405461&perks=247725512,1015611457
 
-rackless oracle - outlaw/swash
+rEckless oracle - outlaw/swash * DR/CR
 dimwishlist:item=3385326721&perks=1168162263,4082225868
+
+dimwishlist:item=4158265643&perks=2048641572,3640170453
 
 omnicient eye - no dist/snap
 dimwishlist:item=3454326177&perks=2866798147,957782887
@@ -1801,13 +2355,19 @@ round robin - sub/hatch - KA/OS
 dimwishlist:item=2034215657&perks=1820235745,831391274
 dimwishlist:item=2034215657&perks=3619207468,47981717
 
-synchronic roulette - PM/hatch (pug) - EA/CP
+synchronic roulette - PM/hatch (pug) - EA/CP * AO/CR + EA/OS
 dimwishlist:item=811403305&perks=972757866,831391274
 dimwishlist:item=811403305&perks=972757866,691659142
 dimwishlist:item=811403305&perks=968510818,3751912585
 
-bossa ostinato - LFG/DR
+dimwishlist:item=3752860091&perks=243981275,3640170453
+dimwishlist:item=3752860091&perks=3828510309,95528736
+
+bAssa ostinato - LFG/DR * DIS/DR + GR/OTP
 dimwishlist:item=2573900604&perks=1556840489,2048641572
+
+dimwishlist:item=2353274446&perks=3978468247,2048641572
+dimwishlist:item=2353274446&perks=1631667848,2679249093
 
 iterative loop - CR/volt
 dimwishlist:item=1289796511&perks=671806388,2173046394
@@ -1883,36 +2443,57 @@ dimwishlist:item=1641430382&perks=3436462433,1546637391
 dimwishlist:item=1161561386&perks=1428297954,3751912585
 dimwishlist:item=1161561386&perks=3828510309,555281244
 
-forward path - DSR/TTT
+forward path - DSR/TTT + SUB/OS
 dimwishlist:item=1690783811&perks=1359896290,1890422124
+
+dimwishlist:item=1884897338&perks=1359896290,1890422124
+dimwishlist:item=1884897338&perks=1820235745,95528736
 
 steady hand - QD/snap
 dimwishlist:item=2220884262&perks=706527188,957782887
 
-time-worn spire - subsist/rampage
+time-worn spire - subsist/rampage * ZM/HS + FF/HS-CC
 dimwishlist:item=3593598010&perks=1820235745,3425386926
 
-multimach ccx - DSR/KC
+dimwishlist:item=2204165992&perks=2387244414,460017080
+dimwishlist:item=2204165992&perks=3824105627,124408337
+dimwishlist:item=2204165992&perks=3824105627,2922950962
+
+multimach ccx - DSR/KC * AO-BB/KT
 dimwishlist:item=3717177717&perks=1359896290,1015611457
+
+dimwishlist:item=3026836571&perks=243981275,3891536761
+dimwishlist:item=3026836571&perks=2289534249,3891536761
 
 finite impactor - HU/EOTS
 dimwishlist:item=3813153080&perks=1570042021,699525795
 
-occluded finality - snap/vorpal
+occluded finality - snap/vorpal * RWR/AC + MT/CT
 dimwishlist:item=852551895&perks=957782887,1546637391
 
-riiswalker - QD/KW - slide/os
+dimwishlist:item=3104013318&perks=3418782618,3764420437
+dimwishlist:item=3104013318&perks=588594999,1194056669
+
+riiswalker - QD/KW - slide/os * KW-SS/OS
 dimwishlist:item=108221785&perks=706527188,2450788523
 dimwishlist:item=1764868900&perks=3161816588,47981717
 
-archon's thunder - surplus/rampage
+dimwishlist:item=1435062001&perks=2450788523,47981717
+dimwishlist:item=1435062001&perks=3161816588,47981717
+
+archon's thunder - surplus/rampage * RS/HS
 dimwishlist:item=1967303408&perks=3436462433,3425386926
 
-peacebond - subsist/headstone(swash) - hs/rs - zm/hs
+dimwishlist:item=91672792&perks=1955165503,124408337
+
+peacebond - subsist/headstone(swash) - hs/rs - zm/hs * HS/RS + ZM/HS
 dimwishlist:item=829330711&perks=1820235745,124408337
 dimwishlist:item=829330711&perks=1820235745,4082225868
 dimwishlist:item=3437370193&perks=124408337,1955165503
 dimwishlist:item=3437370193&perks=2387244414,460017080
+
+dimwishlist:item=247984829&perks=124408337,1955165503
+dimwishlist:item=247984829&perks=124408337,1955165503
 
 forge's pledge - HU/rampage
 dimwishlist:item=1076810832&perks=1570042021,3425386926
@@ -1920,38 +2501,60 @@ dimwishlist:item=1076810832&perks=1570042021,3425386926
 razors edge - tireless/CR
 dimwishlist:item=1796949035,2590710093,2396489472
 
-frontiers cry - RH/KC
+frontiers cry - RH/KC * AM/ADAG
 dimwishlist:item=1141547457,247725512,1015611457
 
-THE WIZENED REBUKE - UP/BP
+dimwishlist:item=3203303472&perks=247725512,1015611457
+dimwishlist:item=3203303472&perks=1048183818,3673922083
+
+THE WIZENED REBUKE - UP/BP * OF/RB
 dimwishlist:item=1999697514&perks=,1645158859,1600092898
+
+dimwishlist:item=293709641&perks=1645158859,1600092898
+dimwishlist:item=293709641&perks=3643424744,1427256713
 
 THE HERO'S BURDEN - ZM/KC - FF/DR
 dimwishlist:item=2488587246&perks=,2387244414,1015611457
 dimwishlist:item=1028124540&perks=2779035018,2048641572
 
-ALLIED DEMAND - RF/GSS
+dimwishlist:item=4222913208&perks=2387244414,1015611457
+dimwishlist:item=4222913208&perks=2779035018,2048641572
+
+ALLIED DEMAND - RF-ALH/GSS
 dimwishlist:item=1532276803&perks=,2846385770,1365187766
 
-ROAR OF THE BEAR - IA/CC
+dimwishlist:item=247984830&perks=2846385770,1365187766
+dimwishlist:item=247984830&perks=3300816228,1365187766
+
+ROAR OF THE BEAR - IA/CC * IA/VW
 dimwishlist:item=4009352833&perks=,951095735,1275731761
+
+dimwishlist:item=2881109029&perks=951095735,1546637391
 
 dark decider - sub/volt
 dimwishlist:item=540880995&perks=1820235745,2173046394
 
-gunnora's axe - MT/OS - ALH/vorpal
+gunnora's axe - MT/OS - ALH/vorpal * MT/CT
 dimwishlist:item=487361141&perks=588594999,47981717
 dimwishlist:item=487361141&perks=3300816228,1546637391
 
+dimwishlist:item=218787951&perks=588594999,1194056669
+
 JORUM'S CLAW - encore/HS
 dimwishlist:item=62937067&perks=1195158366,460017080
+dimwishlist:item=3634548598&perks=1195158366,460017080
 
 BITE OF THE FOX - SS/EP-OS
 dimwishlist:item=1403800851&perks=957782887,3038247973
 dimwishlist:item=1403800851&perks=957782887,47981717
 
-PRESSURIZED PRECISION - ALH/HATCH
+dimwishlist:item=2851703775&perks=957782887,3038247973
+dimwishlist:item=2851703775&perks=957782887,47981717
+
+PRESSURIZED PRECISION - ALH/HATCH * UP/HIR
 dimwishlist:item=1084190509&perks=3300816228,831391274
+
+dimwishlist:item=293709640&perks=1645158859,2213355989
 
 SWARM OF THE RAVEN - SPIKE/ALH/CASCADE
 dimwishlist:item=433905699&perks=3301904089,3300816228,3751912585
@@ -1960,12 +2563,19 @@ POINT OF THE STAG - AT/DF EC/GT
 dimwishlist:item=888872889&perks=201365942,2848615171
 dimwishlist:item=888872889&perks=3511092054,2610012052
 
-LETHAL ABUNDANCE - EA/onsl - slice/hatch
+LETHAL ABUNDANCE - EA/onsl - slice/hatch * TEAR/HATCH + RWR/OS + ZM/TTT
 dimwishlist:item=2189073092&perks=3828510309,95528736
 dimwishlist:item=2189073092&perks=923806249,831391274
 
-Tinasha's Mastery - LC/CC
+dimwishlist:item=1884897339&perks=960997401,831391274
+dimwishlist:item=1884897339&perks=3418782618,95528736
+dimwishlist:item=1884897339&perks=2387244414,1890422124
+
+Tinasha's Mastery - LC-AT/CC
 dimwishlist:item=480368036&perks=1119449540,2978966579
+
+dimwishlist:item=247984828&perks=1119449540,2978966579
+dimwishlist:item=247984828&perks=1421772400,2978966579
 
 Warlord's Spear - rwr/jf db
 dimwishlist:item=1968711238&perks=3418782618,3966416502
@@ -1975,7 +2585,24 @@ Nature Reclaimed - lw/bb - incan/hc
 dimwishlist:item=2639921391&perks=2579169598,2551157718
 dimwishlist:item=2639921391&perks=3017780555,4293542123
 
+Reghusk's Pledge - DSR/TL + RWR/AO + DR/RB
+dimwishlist:item=2370525224&perks=1359896290,365154968
+dimwishlist:item=2370525224&perks=3418782618,243981275
+dimwishlist:item=2370525224&perks=2048641572,776531651
 
+Claws of the Wolf - HS/DB + RB/DR
+dimwishlist:item=3634548599&perks=460017080,1683379515
+dimwishlist:item=3634548599&perks=776531651,2048641572
+
+Crimil's Dagger - KA/PI
+dimwishlist:item=1617917863&perks=3619207468,555281244
+
+Felwinter's Lie - SS/OS + DL/TB
+dimwishlist:item=218787950&perks=3161816588,47981717
+dimwishlist:item=218787950&perks=25606670,2360754333
+
+Tusk of the Boar - SW/CR
+dimwishlist:item=491956886&perks=2039302152,2396489472
 
 [NIGHTFALL]
 
@@ -1986,23 +2613,32 @@ dimwishlist:item=3836861464&perks=3436462433,4049631843
 dimwishlist:item=566740455&perks=2779035018,2610012052
 dimwishlist:item=566740455&perks=1359896290,1890422124
 
-shadow price - surplus/swash
+shadow price - surplus/swash * AO/VOLT
 dimwishlist:item=2633186522&perks=3436462433,4082225868
 (adept)
 dimwishlist:item=2147010335&perks=3436462433,4082225868
 
-palindrome - KW/RF
+dimwishlist:item=3142989221&perks=243981275,2173046394
+
+palindrome - KW/RF * SM/MH-RS
 dimwishlist:item=432476743&perks=2450788523,2846385770
 (adept)
 dimwishlist:item=1481892490&perks=2450788523,2846385770
 
-hung jury - RH/firefly(EP) RH/KT
+dimwishlist:item=739029152&perks=1511100135,2720533289
+dimwishlist:item=739029152&perks=1511100135,3218042543
+
+hung jury - RH/firefly(EP) RH/KT * KT/EP + AO/AO + ND/BB
 dimwishlist:item=4281371574&perks=247725512,3824105627
 dimwishlist:item=4281371574&perks=247725512,2551157718
 (adept)
 dimwishlist:item=4074251943&perks=247725512,3824105627
 dimwishlist:item=4074251943&perks=247725512,3038247973
 dimwishlist:item=2883684343&perks=247725512,3891536761
+
+dimwishlist:item=697459665&perks=3891536761,3038247973
+dimwishlist:item=697459665&perks=3252937884,1202584452
+dimwishlist:item=697459665&perks=2866798147,2551157718
 
 plug one - FF/resevior burst
 dimwishlist:item=1289000550&perks=2779035018,1427256713
@@ -2034,12 +2670,14 @@ dimwishlist:item=3355385170,957782887,47981717
 dimwishlist:item=1387987271,957782887,47981717
 dimwishlist:item=1387987271,1087426260,3400784728,1771339417
 
-MINDBENDER'S AMBITION - PUG/OTP - SLIDE/SH
+MINDBENDER'S AMBITION - PUG/OTP - SLIDE/SH * PUG/INCAN
 dimwishlist:item=1094005544&perks=,691659142,2679249093
 dimwishlist:item=1094005544&perks=,2039302152,509074078
 (ADEPT)
 dimwishlist:item=912150785&perks=,691659142,2679249093
 dimwishlist:item=912150785&perks=,2039302152,509074078
+
+dimwishlist:item=951529995&perks=691659142,4293542123
 
 THE MILITIA'S BIRTHRIGHT - AA/OFA
 dimwishlist:item=40394833&perks=,2010801679,4049631843
@@ -2055,6 +2693,9 @@ BUZZARD (ADEPT) - OL/KR - encore/frenzy
 dimwishlist:item=927835311&perks=3643424744,3891536761
 dimwishlist:item=927835311&perks=1195158366,4104185692
 
+dimwishlist:item=4237970862&perks=3643424744,3891536761
+dimwishlist:item=4237970862&perks=1195158366,4104185692
+
 BRAYTECH OSPREY (ADEPT) - CB/DR
 dimwishlist:item=1064132738&perks=1275731761,2048641572
 
@@ -2062,11 +2703,16 @@ LOADED QUESTION (ADEPT) - OF/RB (CB)
 dimwishlist:item=2914913838&perks=3643424744,1427256713
 dimwishlist:item=3125454907&perks=3643424744,2594592626
 
+dimwishlist:item=852069910&perks=3643424744,1427256713
+dimwishlist:item=852069910&perks=3643424744,2594592626
+
 PRE ASTYANAX IV (ADEPT) - AT/PI
 dimwishlist:item=496556698&perks=201365942,555281244
 
-WARDEN'S LAW (ADEPT) - EA/KC
+WARDEN'S LAW (ADEPT) - EA/KC * FTTC/VW
 dimwishlist:item=267089201&perks=3828510309,1015611457
+
+dimwishlist:item=2363113134&perks=1354429876,1546637391
 
 UNDERCURRENT (ADEPT) - AA/volt
 dimwishlist:item=672957262&perks=2010801679,2173046394
@@ -2074,12 +2720,18 @@ dimwishlist:item=672957262&perks=2010801679,2173046394
 Rake Angle (Adept) - OF/CC
 dimwishlist:item=3997086838&perks=3643424744,2978966579
 
-PLUG ONE.1 (Adept) - UP/CT
+PLUG ONE.1 (Adept) - UP/CT * SLIDE/KS
 dimwishlist:item=3106557243&perks=1645158859,1194056669
+
+dimwishlist:item=852069911&perks=1645158859,1194056669
+dimwishlist:item=852069911&perks=2039302152,1754714824
 
 Cruel Mercy (Adept) - ec/rs - hs/ka
 dimwishlist:item=2347178967&perks=684456054,3218042543
 dimwishlist:item=2347178967&perks=3619207468,460017080
+
+dimwishlist:item=4011513985&perks=684456054,3218042543
+dimwishlist:item=4011513985&perks=3619207468,460017080
 
 Lotus-Eater (Adept) - rb/dr
 dimwishlist:item=2697143634&perks=776531651,2048641572
@@ -2153,7 +2805,7 @@ dimwishlist:item=2221264583&perks=,2896038713,4049631843
 DOOM OF CHELCHIS - FF/DF
 dimwishlist:item=1937552980&perks=,3824105627,2848615171
 
-ZAOULI'S BANE - XP/FF
+ZAOULI'S BANE - XP/FF * FF/CR + EP/INCAN
 dimwishlist:item=431721920&perks=,3038247973,3824105627
 
 MIDHA'S RECKONING - UNRELENTING/RB
@@ -2327,20 +2979,31 @@ dimwishlist:item=2300143112&perks=1354429876,1546637391
 
 [30th ANNIVERSARY]
 
-eyasluna - RH/KC - OL/headstone - RF/MT
+eyasluna - RH/KC - OL/headstone - RF/MT * FF/CR + MEGA/HS
 dimwishlist:item=235827225&perks=247725512,1015611457
 dimwishlist:item=235827225&perks=1168162263,124408337
 dimwishlist:item=235827225&perks=2846385770,588594999
 
-1k yard stare - UP/snap
+dimwishlist:item=386864872&perks=3824105627,3640170453
+dimwishlist:item=386864872&perks=657025441,124408337
+
+1k yard stare - UP/snap * LW/SS + DS/DEMOR
 dimwishlist:item=4164201232&perks=280464955,957782887
 
-matador 64 - PM/KW (swash)
+dimwishlist:item=1648948519&perks=2579169598,957782887
+dimwishlist:item=1648948519&perks=3182497402,1464081238
+
+matador 64 - PM/KW (swash) * LW/CT + SM/OTP
 dimwishlist:item=2563012876&perks=1428297954,2450788523
 dimwishlist:item=2563012876&perks=1428297954,4082225868
 
-hero of ages - demo/CR
+dimwishlist:item=1518956169&perks=2579169598,1194056669
+dimwishlist:item=1518956169&perks=1511100135,2679249093
+
+hero of ages - demo/CR * RS/JF
 dimwishlist:item=2139640995&perks=3523296417,2396489472
+
+dimwishlist:item=944708986&perks=1749209109,3966416502
 
 battle rifle - demo/AJ - OL/KC - PM/BER
 dimwishlist:item=2708806099&perks=3523296417,11612903
@@ -2439,6 +3102,9 @@ compass rose - turnabout/trench - QD/snap
 dimwishlist:item=2591111628&perks=,2209918983,2360754333
 dimwishlist:item=2591111628&perks=,706527188,957782887
 
+Triple Laureate - CC/CR + GR/OTP
+dimwishlist:item=1605599021&perks=2922950962,3640170453
+dimwishlist:item=1605599021&perks=1820235745,2679249093
 
-
-
+The Beacon - OF/CB
+dimwishlist:item=2161618499&perks=3643424744,2594592626
